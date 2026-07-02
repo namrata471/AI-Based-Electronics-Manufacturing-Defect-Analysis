@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Electronics Manufacturing AI System</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>Electronics Manufacturing AI System</h1>
+
+        <form method="POST">
+
+            <label>Temperature</label>
+            <input type="number" name="temperature" required>
+
+            <label>Humidity</label>
+            <input type="number" name="humidity" required>
+
+            <label>Voltage</label>
+            <input type="number" step="0.1" name="voltage" required>
+
+            <label>Current</label>
+            <input type="number" step="0.1" name="current" required>
+
+            <label>AI Risk Score</label>
+            <input type="number" name="ai_risk" required>
+
+            <button type="submit">Predict</button>
+
+        </form>
+
+        {% if prediction %}
+            <div class="result">
+                Prediction: {{ prediction }}
+            </div>
+        {% endif %}
+
+    </div>
+
+</body>
+
+</html>

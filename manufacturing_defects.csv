@@ -1,0 +1,1001 @@
+Inspection_ID,Product,Production_Line,Machine,Shift,Temperature,Humidity,Voltage,Current,Vibration,Production_Speed,Operator,Material_Type,Defect_Type,Severity,Inspection_Result,Downtime_Minutes,Maintenance_Status,AI_Risk_Score,Inspection_Date
+I0001,LED Driver,L3,M4,Evening,50,41,133.68,1.93,0.71,95,OP125,Aluminum,PCB Crack,High,Fail,54,Warning,71,2025-01-02
+I0002,Camera Module,L3,M4,Morning,48,46,4.8,1.78,3.53,113,OP130,FR4,Short Circuit,Low,Pass,18,Critical,22,2025-01-03
+I0003,Microcontroller Board,L2,M1,Evening,37,61,99.85,1.58,1.0,89,OP106,Aluminum,Open Circuit,Medium,Pass,43,Good,30,2025-01-04
+I0004,Wi-Fi Module,L2,M4,Night,37,45,82.32,3.79,2.55,124,OP114,Aluminum,PCB Crack,Low,Fail,18,Warning,99,2025-01-05
+I0005,Camera Module,L2,M5,Morning,53,51,179.6,2.78,2.73,150,OP116,Ceramic,Solder Bridge,Medium,Fail,15,Warning,27,2025-01-06
+I0006,Battery Pack,L3,M2,Night,39,43,186.92,3.21,0.59,113,OP114,Ceramic,Burn Mark,Low,Fail,27,Critical,47,2025-01-07
+I0007,Display Unit,L2,M5,Morning,37,51,184.83,2.94,3.14,127,OP108,FR4,Burn Mark,Medium,Pass,17,Warning,88,2025-01-08
+I0008,LED Driver,L2,M3,Morning,44,53,142.83,2.12,3.9,125,OP122,Ceramic,Loose Connection,Medium,Fail,33,Warning,89,2025-01-09
+I0009,Relay Module,L3,M1,Evening,54,42,77.05,2.64,2.82,89,OP117,FR4,Short Circuit,Medium,Pass,4,Good,41,2025-01-10
+I0010,PCB,L4,M2,Morning,51,58,74.54,2.77,3.86,137,OP108,Copper,Short Circuit,Low,Pass,20,Critical,65,2025-01-11
+I0011,Relay Module,L4,M1,Morning,36,42,188.64,3.21,3.82,139,OP128,Copper,Loose Connection,Low,Pass,33,Critical,74,2025-01-12
+I0012,Power Supply Unit,L2,M3,Night,47,61,44.22,1.2,3.9,94,OP125,Ceramic,PCB Crack,Low,Pass,26,Good,66,2025-01-13
+I0013,Display Unit,L3,M5,Morning,49,62,111.08,1.72,3.4,127,OP110,Ceramic,Burn Mark,High,Pass,3,Critical,10,2025-01-14
+I0014,Camera Module,L3,M4,Evening,47,63,222.22,1.07,2.22,102,OP127,Ceramic,Solder Bridge,Low,Fail,57,Warning,39,2025-01-15
+I0015,Relay Module,L2,M4,Night,43,50,113.74,0.57,4.15,90,OP110,Aluminum,Solder Bridge,Medium,Fail,56,Good,20,2025-01-16
+I0016,Display Unit,L4,M5,Morning,50,64,65.91,1.46,3.33,147,OP119,FR4,Short Circuit,High,Fail,3,Warning,15,2025-01-17
+I0017,LED Driver,L1,M1,Evening,52,62,13.62,4.31,1.62,141,OP128,FR4,Short Circuit,Low,Fail,0,Warning,91,2025-01-18
+I0018,Power Supply Unit,L3,M2,Morning,44,62,210.79,0.33,2.96,109,OP111,FR4,Open Circuit,Low,Pass,1,Good,89,2025-01-19
+I0019,Power Supply Unit,L3,M4,Morning,49,44,179.13,0.27,0.74,110,OP124,Aluminum,Short Circuit,Low,Pass,31,Critical,11,2025-01-20
+I0020,Sensor Module,L3,M2,Morning,40,49,65.16,0.43,3.54,134,OP117,Copper,Missing Component,Low,Pass,34,Good,71,2025-01-21
+I0021,PCB,L1,M3,Evening,50,53,227.91,0.6,0.56,117,OP124,Copper,PCB Crack,Medium,Fail,57,Good,48,2025-01-22
+I0022,Battery Pack,L3,M2,Morning,39,46,92.7,0.33,2.61,144,OP108,Copper,Short Circuit,Low,Fail,1,Warning,34,2025-01-23
+I0023,Battery Pack,L3,M3,Evening,35,49,162.23,2.83,3.9,116,OP128,FR4,Short Circuit,Medium,Pass,10,Warning,86,2025-01-24
+I0024,Battery Pack,L4,M5,Night,51,59,123.91,4.58,2.26,146,OP126,Aluminum,Missing Component,Low,Fail,23,Good,53,2025-01-25
+I0025,Battery Pack,L4,M3,Morning,42,50,222.92,1.31,2.2,104,OP110,FR4,Loose Connection,Low,Fail,24,Good,38,2025-01-26
+I0026,LED Driver,L2,M4,Evening,38,62,161.17,3.31,2.2,144,OP108,FR4,Loose Connection,Medium,Fail,41,Warning,38,2025-01-27
+I0027,Relay Module,L4,M4,Morning,48,61,19.32,0.62,3.82,86,OP114,Ceramic,Loose Connection,Low,Pass,19,Critical,92,2025-01-28
+I0028,LED Driver,L3,M5,Evening,47,54,84.22,1.44,1.43,123,OP112,Ceramic,Short Circuit,Medium,Pass,48,Warning,70,2025-01-29
+I0029,Battery Pack,L4,M5,Evening,53,65,55.38,3.03,2.74,134,OP102,Copper,Open Circuit,Medium,Pass,18,Critical,28,2025-01-30
+I0030,Battery Pack,L4,M3,Evening,48,49,112.46,2.21,2.18,98,OP101,Copper,Misalignment,High,Fail,30,Good,85,2025-01-31
+I0031,Wi-Fi Module,L3,M3,Evening,43,52,66.22,4.09,4.34,105,OP127,Aluminum,Burn Mark,Medium,Fail,23,Warning,40,2025-02-01
+I0032,Battery Pack,L4,M1,Evening,35,51,7.78,4.95,1.93,114,OP103,Aluminum,Open Circuit,Low,Fail,22,Warning,88,2025-02-02
+I0033,Display Unit,L1,M4,Morning,48,64,157.58,2.73,4.05,96,OP113,Copper,Loose Connection,Medium,Fail,34,Good,98,2025-02-03
+I0034,Microcontroller Board,L2,M1,Evening,50,55,135.54,4.61,3.33,134,OP128,Copper,Missing Component,Low,Fail,52,Good,44,2025-02-04
+I0035,Microcontroller Board,L1,M5,Morning,53,63,114.05,3.94,4.49,118,OP112,Aluminum,PCB Crack,Low,Fail,29,Critical,90,2025-02-05
+I0036,Battery Pack,L2,M5,Morning,50,52,169.67,0.71,1.84,103,OP114,FR4,PCB Crack,Medium,Fail,45,Warning,44,2025-02-06
+I0037,Relay Module,L2,M3,Morning,36,56,27.17,4.97,2.86,137,OP123,Aluminum,Short Circuit,Low,Fail,37,Good,45,2025-02-07
+I0038,Display Unit,L2,M4,Morning,40,46,200.22,3.75,1.99,83,OP103,Aluminum,Solder Bridge,Low,Fail,37,Good,67,2025-02-08
+I0039,Camera Module,L4,M5,Night,43,45,100.58,0.83,2.11,89,OP112,Copper,Missing Component,Medium,Fail,57,Warning,84,2025-02-09
+I0040,PCB,L4,M2,Night,51,41,216.46,2.57,2.39,132,OP109,Aluminum,Loose Connection,Low,Pass,53,Warning,80,2025-02-10
+I0041,Relay Module,L1,M5,Morning,40,57,220.94,4.71,0.79,143,OP130,FR4,Burn Mark,Medium,Fail,2,Good,65,2025-02-11
+I0042,Microcontroller Board,L2,M2,Morning,49,60,90.89,2.48,2.81,126,OP130,Copper,Open Circuit,Low,Fail,51,Warning,24,2025-02-12
+I0043,Microcontroller Board,L2,M4,Night,55,45,200.74,4.07,4.48,96,OP116,FR4,PCB Crack,Low,Pass,22,Good,78,2025-02-13
+I0044,Camera Module,L3,M2,Evening,40,49,186.15,2.97,0.5,89,OP120,Aluminum,PCB Crack,Low,Fail,13,Critical,51,2025-02-14
+I0045,Power Supply Unit,L1,M4,Morning,49,47,140.65,0.62,3.01,94,OP120,Aluminum,Loose Connection,Low,Fail,44,Good,69,2025-02-15
+I0046,Microcontroller Board,L2,M1,Night,38,42,201.98,2.59,2.6,148,OP123,Aluminum,Missing Component,Low,Pass,43,Critical,58,2025-02-16
+I0047,LED Driver,L2,M2,Evening,43,62,126.7,1.72,1.83,106,OP110,Aluminum,Missing Component,Low,Fail,12,Critical,24,2025-02-17
+I0048,Sensor Module,L2,M5,Night,44,60,49.59,2.98,2.84,126,OP108,Aluminum,Loose Connection,Low,Fail,1,Good,24,2025-02-18
+I0049,PCB,L3,M2,Evening,55,60,63.86,3.2,3.04,83,OP106,Aluminum,Missing Component,Low,Pass,43,Good,59,2025-02-19
+I0050,Camera Module,L4,M4,Evening,38,53,115.32,2.51,2.37,150,OP121,Copper,Open Circuit,High,Pass,17,Good,22,2025-02-20
+I0051,Sensor Module,L1,M2,Night,51,45,77.76,4.13,2.91,135,OP114,FR4,Open Circuit,Medium,Fail,45,Good,99,2025-02-21
+I0052,Wi-Fi Module,L4,M5,Morning,46,53,15.83,4.58,1.72,83,OP109,Ceramic,Misalignment,Low,Pass,58,Warning,34,2025-02-22
+I0053,Battery Pack,L1,M5,Evening,53,58,11.33,4.63,1.81,83,OP125,FR4,Open Circuit,Low,Fail,44,Good,32,2025-02-23
+I0054,Relay Module,L1,M4,Morning,40,46,11.5,3.11,2.68,101,OP125,FR4,Burn Mark,Low,Fail,60,Warning,62,2025-02-24
+I0055,LED Driver,L2,M1,Evening,41,60,57.1,0.8,4.28,145,OP118,Ceramic,Loose Connection,Medium,Fail,8,Critical,12,2025-02-25
+I0056,Battery Pack,L3,M1,Morning,52,65,113.76,2.44,0.78,106,OP104,Ceramic,Open Circuit,Low,Pass,32,Critical,34,2025-02-26
+I0057,LED Driver,L4,M2,Night,46,57,150.31,4.99,2.45,98,OP127,Ceramic,Loose Connection,Low,Pass,1,Critical,36,2025-02-27
+I0058,Wi-Fi Module,L3,M4,Morning,54,46,148.58,4.21,2.47,106,OP101,Ceramic,PCB Crack,Low,Pass,48,Warning,84,2025-02-28
+I0059,Power Supply Unit,L2,M3,Morning,51,51,137.75,2.94,4.04,113,OP109,Ceramic,Misalignment,High,Fail,10,Critical,15,2025-03-01
+I0060,Wi-Fi Module,L2,M2,Morning,45,44,59.39,3.44,0.71,82,OP110,Copper,PCB Crack,Low,Pass,58,Critical,40,2025-03-02
+I0061,PCB,L4,M1,Night,48,42,225.61,0.2,3.09,103,OP126,Copper,PCB Crack,Medium,Pass,4,Critical,75,2025-03-03
+I0062,LED Driver,L4,M4,Morning,36,60,166.8,2.25,1.57,109,OP128,FR4,Loose Connection,Low,Pass,30,Warning,35,2025-03-04
+I0063,Relay Module,L2,M2,Morning,40,59,73.65,3.53,1.41,134,OP125,Copper,Burn Mark,Low,Pass,1,Warning,24,2025-03-05
+I0064,Sensor Module,L2,M1,Evening,39,64,148.06,3.42,3.46,123,OP128,Aluminum,Loose Connection,High,Pass,32,Warning,41,2025-03-06
+I0065,PCB,L4,M5,Evening,46,51,131.68,1.68,1.04,114,OP128,Copper,Missing Component,Low,Fail,19,Warning,90,2025-03-07
+I0066,Sensor Module,L3,M1,Morning,47,49,45.52,1.84,3.35,121,OP116,Ceramic,Burn Mark,Medium,Fail,33,Warning,41,2025-03-08
+I0067,Relay Module,L3,M2,Night,38,49,130.68,3.12,1.86,146,OP110,FR4,Missing Component,High,Pass,31,Critical,54,2025-03-09
+I0068,Power Supply Unit,L2,M5,Night,40,64,114.34,4.17,2.17,133,OP125,Ceramic,Short Circuit,High,Fail,44,Warning,99,2025-03-10
+I0069,PCB,L3,M1,Morning,55,53,137.27,4.95,2.31,105,OP113,Aluminum,Missing Component,Low,Pass,59,Warning,57,2025-03-11
+I0070,LED Driver,L3,M2,Night,40,42,177.97,1.48,1.42,115,OP130,Copper,Misalignment,Low,Fail,7,Good,97,2025-03-12
+I0071,Sensor Module,L1,M1,Evening,55,63,9.04,2.67,3.3,121,OP126,Ceramic,Missing Component,Low,Fail,9,Warning,64,2025-03-13
+I0072,PCB,L4,M3,Evening,40,44,50.88,2.46,4.33,116,OP116,Ceramic,Open Circuit,Low,Pass,7,Critical,65,2025-03-14
+I0073,Camera Module,L1,M5,Evening,40,51,80.16,4.9,3.22,131,OP111,Ceramic,Missing Component,Medium,Fail,29,Good,97,2025-03-15
+I0074,Power Supply Unit,L2,M2,Evening,39,65,212.29,3.92,2.54,92,OP111,Copper,Loose Connection,High,Pass,14,Warning,53,2025-03-16
+I0075,Battery Pack,L1,M1,Evening,35,46,122.76,3.2,3.06,148,OP128,Copper,Solder Bridge,Low,Fail,5,Warning,46,2025-03-17
+I0076,LED Driver,L1,M1,Evening,39,54,199.63,3.92,2.6,97,OP115,Ceramic,Open Circuit,Low,Fail,54,Warning,34,2025-03-18
+I0077,Power Supply Unit,L2,M3,Evening,43,50,10.21,3.17,1.53,85,OP108,Copper,Missing Component,Medium,Pass,40,Good,61,2025-03-19
+I0078,Camera Module,L3,M1,Night,35,42,218.75,4.83,4.32,123,OP127,FR4,Open Circuit,Low,Fail,17,Good,33,2025-03-20
+I0079,Camera Module,L3,M5,Night,55,57,38.99,4.62,3.34,123,OP111,Aluminum,PCB Crack,Low,Pass,8,Warning,100,2025-03-21
+I0080,Camera Module,L1,M2,Night,46,49,192.33,1.02,3.6,96,OP110,Copper,PCB Crack,Low,Pass,47,Good,51,2025-03-22
+I0081,Battery Pack,L4,M5,Morning,47,41,135.29,3.52,3.68,142,OP114,Copper,Missing Component,High,Pass,34,Warning,88,2025-03-23
+I0082,Camera Module,L1,M2,Morning,41,53,48.15,1.28,3.82,137,OP121,FR4,Missing Component,Medium,Pass,7,Good,80,2025-03-24
+I0083,Sensor Module,L2,M3,Morning,36,47,229.01,1.69,1.41,93,OP102,Aluminum,Missing Component,Low,Fail,48,Warning,28,2025-03-25
+I0084,Camera Module,L4,M1,Morning,42,47,154.66,3.7,3.13,86,OP103,Aluminum,Misalignment,Low,Pass,27,Good,89,2025-03-26
+I0085,Camera Module,L3,M2,Night,41,49,166.97,1.49,4.12,108,OP113,Ceramic,Burn Mark,Low,Pass,14,Warning,64,2025-03-27
+I0086,PCB,L1,M1,Evening,50,65,88.45,0.93,1.21,111,OP120,Ceramic,Open Circuit,High,Pass,35,Warning,25,2025-03-28
+I0087,Wi-Fi Module,L3,M5,Evening,35,42,62.61,0.44,2.64,95,OP101,Copper,Burn Mark,Medium,Pass,49,Good,38,2025-03-29
+I0088,Relay Module,L3,M4,Night,46,48,10.7,0.68,1.43,131,OP121,Aluminum,Missing Component,Medium,Fail,16,Critical,38,2025-03-30
+I0089,LED Driver,L3,M3,Night,39,46,49.14,2.07,1.72,98,OP103,Ceramic,Short Circuit,High,Fail,41,Critical,21,2025-03-31
+I0090,Wi-Fi Module,L3,M4,Morning,36,62,151.86,1.57,0.9,101,OP109,Aluminum,PCB Crack,Low,Fail,55,Critical,91,2025-04-01
+I0091,Relay Module,L2,M1,Evening,36,48,14.9,2.64,1.62,98,OP115,Aluminum,Open Circuit,Medium,Pass,55,Good,43,2025-04-02
+I0092,Display Unit,L2,M3,Morning,39,62,190.65,4.07,0.67,124,OP129,Ceramic,Solder Bridge,High,Fail,46,Warning,97,2025-04-03
+I0093,Display Unit,L3,M3,Morning,37,47,78.42,0.21,2.12,116,OP118,Ceramic,PCB Crack,High,Pass,14,Warning,23,2025-04-04
+I0094,Battery Pack,L1,M4,Morning,55,63,39.52,3.46,2.76,136,OP105,Ceramic,Misalignment,Low,Pass,54,Warning,40,2025-04-05
+I0095,LED Driver,L4,M2,Morning,37,40,59.77,0.23,0.99,142,OP117,FR4,PCB Crack,Low,Pass,47,Critical,71,2025-04-06
+I0096,Relay Module,L4,M3,Night,48,58,65.21,1.13,4.37,126,OP110,Ceramic,PCB Crack,Low,Fail,0,Critical,61,2025-04-07
+I0097,Display Unit,L4,M5,Night,53,50,168.09,1.42,0.53,148,OP103,Copper,Misalignment,Medium,Fail,38,Critical,90,2025-04-08
+I0098,Camera Module,L3,M5,Morning,41,60,170.9,1.36,3.81,128,OP116,Aluminum,Misalignment,Medium,Pass,60,Critical,52,2025-04-09
+I0099,Microcontroller Board,L1,M4,Evening,54,63,133.49,4.15,4.22,141,OP110,Aluminum,PCB Crack,Low,Pass,36,Good,52,2025-04-10
+I0100,Display Unit,L2,M5,Evening,53,53,13.95,3.25,4.41,115,OP123,Copper,PCB Crack,Low,Pass,21,Good,52,2025-04-11
+I0101,Sensor Module,L2,M1,Night,45,60,15.71,0.95,4.22,144,OP102,FR4,PCB Crack,Medium,Pass,38,Warning,53,2025-04-12
+I0102,Relay Module,L4,M5,Night,50,52,176.59,2.93,3.92,120,OP121,Aluminum,Misalignment,Medium,Pass,45,Critical,29,2025-04-13
+I0103,Wi-Fi Module,L4,M5,Morning,38,51,37.46,2.19,3.23,128,OP125,Ceramic,Solder Bridge,Low,Pass,38,Warning,87,2025-04-14
+I0104,Sensor Module,L3,M5,Evening,39,41,80.73,4.26,3.02,94,OP118,FR4,Short Circuit,Low,Fail,20,Warning,18,2025-04-15
+I0105,Power Supply Unit,L1,M3,Morning,37,46,222.18,3.31,1.32,148,OP108,FR4,Solder Bridge,Medium,Fail,24,Critical,68,2025-04-16
+I0106,Wi-Fi Module,L3,M5,Evening,46,51,94.44,0.85,3.33,150,OP121,Copper,Solder Bridge,Low,Pass,34,Warning,53,2025-04-17
+I0107,Relay Module,L3,M4,Evening,55,43,221.37,3.56,3.5,137,OP116,Copper,Open Circuit,High,Pass,19,Warning,50,2025-04-18
+I0108,Camera Module,L4,M3,Night,45,47,161.21,1.9,4.45,101,OP111,Ceramic,Short Circuit,Medium,Pass,34,Critical,55,2025-04-19
+I0109,LED Driver,L1,M2,Morning,43,42,71.73,2.31,3.12,93,OP130,Aluminum,Short Circuit,Low,Pass,24,Warning,20,2025-04-20
+I0110,Wi-Fi Module,L1,M5,Morning,37,44,164.73,2.71,2.28,144,OP103,FR4,Missing Component,Medium,Pass,7,Critical,53,2025-04-21
+I0111,Display Unit,L4,M2,Night,36,54,71.76,1.55,3.21,145,OP129,Copper,Short Circuit,Low,Pass,7,Critical,65,2025-04-22
+I0112,Battery Pack,L4,M3,Morning,45,55,25.63,3.64,0.84,114,OP114,Copper,Loose Connection,Low,Fail,29,Warning,92,2025-04-23
+I0113,Battery Pack,L2,M1,Morning,36,49,177.09,2.83,1.03,92,OP115,FR4,Solder Bridge,Low,Fail,34,Critical,79,2025-04-24
+I0114,Camera Module,L3,M5,Morning,53,48,66.97,0.94,2.36,129,OP103,Aluminum,Loose Connection,Medium,Pass,57,Warning,92,2025-04-25
+I0115,Sensor Module,L3,M1,Morning,55,59,164.34,1.67,1.87,118,OP108,Ceramic,Short Circuit,Low,Fail,54,Good,29,2025-04-26
+I0116,Power Supply Unit,L2,M2,Morning,54,40,225.95,1.31,0.72,111,OP103,FR4,Open Circuit,Medium,Pass,7,Good,89,2025-04-27
+I0117,Display Unit,L1,M2,Evening,49,58,105.59,1.22,3.52,146,OP106,FR4,Burn Mark,Medium,Fail,59,Warning,47,2025-04-28
+I0118,Sensor Module,L1,M3,Night,43,60,211.88,3.28,2.32,101,OP105,Ceramic,Burn Mark,Low,Fail,5,Critical,33,2025-04-29
+I0119,Microcontroller Board,L1,M3,Evening,45,50,3.34,4.32,3.05,105,OP111,FR4,Open Circuit,High,Pass,4,Critical,84,2025-04-30
+I0120,Relay Module,L1,M4,Evening,46,46,45.93,0.82,4.2,94,OP115,FR4,Loose Connection,Medium,Pass,28,Warning,42,2025-05-01
+I0121,Power Supply Unit,L4,M5,Morning,42,46,194.6,1.79,4.03,147,OP106,Aluminum,Misalignment,Low,Fail,22,Good,99,2025-05-02
+I0122,LED Driver,L4,M3,Morning,47,60,29.12,2.38,2.64,129,OP114,Copper,Burn Mark,Medium,Fail,17,Critical,93,2025-05-03
+I0123,LED Driver,L1,M5,Morning,51,58,22.84,4.12,3.47,128,OP107,Copper,Missing Component,Medium,Fail,38,Critical,74,2025-05-04
+I0124,Wi-Fi Module,L3,M1,Night,45,63,59.18,3.95,3.81,149,OP111,Ceramic,Missing Component,Low,Pass,7,Warning,92,2025-05-05
+I0125,Camera Module,L1,M5,Night,41,59,210.34,3.81,3.89,103,OP108,Aluminum,Solder Bridge,Low,Fail,3,Good,39,2025-05-06
+I0126,Power Supply Unit,L3,M3,Evening,42,48,120.02,3.33,3.7,138,OP106,Ceramic,Missing Component,Low,Fail,10,Good,28,2025-05-07
+I0127,Microcontroller Board,L2,M5,Night,38,63,225.98,2.32,3.98,96,OP111,Aluminum,Missing Component,Low,Pass,21,Critical,96,2025-05-08
+I0128,Microcontroller Board,L2,M4,Night,39,57,228.88,0.49,4.1,139,OP111,Ceramic,Burn Mark,High,Fail,44,Warning,78,2025-05-09
+I0129,PCB,L1,M4,Evening,47,59,205.44,2.99,1.83,137,OP117,Copper,Burn Mark,Low,Fail,22,Warning,89,2025-05-10
+I0130,Sensor Module,L2,M1,Morning,44,64,15.54,1.23,2.67,133,OP107,Ceramic,Short Circuit,Medium,Fail,28,Warning,92,2025-05-11
+I0131,Relay Module,L2,M3,Night,48,61,164.34,4.37,3.97,147,OP105,Copper,Burn Mark,High,Pass,38,Critical,97,2025-05-12
+I0132,Microcontroller Board,L3,M4,Night,51,61,108.71,4.75,0.87,130,OP123,Ceramic,PCB Crack,Medium,Pass,11,Good,51,2025-05-13
+I0133,LED Driver,L1,M2,Evening,53,50,98.25,1.68,2.33,118,OP112,Aluminum,PCB Crack,High,Pass,59,Critical,48,2025-05-14
+I0134,Power Supply Unit,L4,M4,Morning,37,44,145.49,2.23,4.41,93,OP111,Aluminum,Missing Component,Medium,Fail,9,Good,42,2025-05-15
+I0135,LED Driver,L2,M2,Morning,45,61,127.64,2.05,2.44,106,OP105,Ceramic,Short Circuit,Low,Pass,55,Warning,89,2025-05-16
+I0136,PCB,L2,M1,Night,48,58,34.86,2.25,1.41,103,OP123,Ceramic,Misalignment,Low,Fail,12,Warning,89,2025-05-17
+I0137,Power Supply Unit,L2,M1,Night,36,46,53.59,1.93,1.53,138,OP111,FR4,Misalignment,Low,Pass,3,Good,14,2025-05-18
+I0138,Microcontroller Board,L4,M2,Morning,49,64,119.5,2.9,2.06,98,OP113,Ceramic,Misalignment,Low,Fail,5,Warning,69,2025-05-19
+I0139,Camera Module,L2,M2,Evening,49,49,87.55,4.74,1.43,101,OP114,FR4,Missing Component,Low,Pass,24,Critical,21,2025-05-20
+I0140,Relay Module,L3,M1,Night,55,58,198.59,2.82,3.5,100,OP129,FR4,Short Circuit,Medium,Fail,38,Critical,88,2025-05-21
+I0141,Microcontroller Board,L1,M1,Morning,36,49,162.25,4.9,2.3,126,OP128,Copper,Solder Bridge,Low,Pass,10,Warning,88,2025-05-22
+I0142,Microcontroller Board,L3,M2,Evening,50,65,67.43,0.22,2.87,88,OP105,Copper,Solder Bridge,Low,Pass,56,Good,61,2025-05-23
+I0143,Display Unit,L1,M3,Morning,54,61,175.93,3.45,2.52,92,OP122,Copper,Short Circuit,Low,Pass,7,Critical,22,2025-05-24
+I0144,Camera Module,L4,M1,Morning,40,53,164.61,4.34,3.71,103,OP124,FR4,PCB Crack,High,Fail,11,Warning,89,2025-05-25
+I0145,Display Unit,L4,M2,Night,42,50,95.32,2.29,2.56,92,OP126,Ceramic,Missing Component,Low,Pass,15,Critical,22,2025-05-26
+I0146,Camera Module,L1,M1,Night,39,49,191.88,0.67,3.18,150,OP126,Copper,Solder Bridge,Medium,Fail,26,Warning,21,2025-05-27
+I0147,Sensor Module,L3,M3,Night,46,61,19.23,4.66,2.84,129,OP122,FR4,Short Circuit,Low,Pass,20,Warning,95,2025-05-28
+I0148,Microcontroller Board,L2,M2,Morning,42,50,114.89,2.59,2.71,100,OP127,FR4,Solder Bridge,Low,Pass,23,Good,62,2025-05-29
+I0149,LED Driver,L3,M1,Morning,49,49,15.98,4.02,2.69,80,OP126,Ceramic,Short Circuit,High,Pass,36,Good,70,2025-05-30
+I0150,Display Unit,L1,M2,Evening,49,51,90.15,0.92,2.75,148,OP115,Ceramic,PCB Crack,High,Pass,48,Critical,41,2025-05-31
+I0151,Battery Pack,L2,M5,Evening,41,57,126.77,3.86,0.89,130,OP117,Aluminum,Misalignment,Medium,Fail,11,Good,98,2025-06-01
+I0152,Power Supply Unit,L2,M3,Night,42,48,27.7,3.42,3.1,82,OP112,FR4,Misalignment,Low,Pass,18,Warning,60,2025-06-02
+I0153,Battery Pack,L3,M2,Night,35,55,63.55,3.18,3.78,83,OP108,Aluminum,Loose Connection,Low,Fail,6,Warning,39,2025-06-03
+I0154,Power Supply Unit,L2,M2,Night,46,53,181.4,2.0,2.8,150,OP117,Aluminum,Misalignment,High,Fail,13,Warning,96,2025-06-04
+I0155,Power Supply Unit,L3,M5,Evening,46,63,162.14,2.46,4.48,100,OP128,FR4,Open Circuit,Low,Fail,23,Good,95,2025-06-05
+I0156,Relay Module,L1,M2,Evening,38,54,202.05,2.47,2.43,80,OP107,FR4,PCB Crack,Low,Pass,43,Critical,38,2025-06-06
+I0157,PCB,L1,M4,Morning,55,52,220.2,4.73,0.63,142,OP106,FR4,Burn Mark,Medium,Fail,36,Good,56,2025-06-07
+I0158,Camera Module,L4,M2,Morning,37,51,54.76,3.49,1.86,93,OP108,Copper,Loose Connection,High,Pass,0,Warning,17,2025-06-08
+I0159,Relay Module,L1,M5,Evening,43,44,11.96,3.08,2.55,86,OP128,FR4,Missing Component,High,Pass,59,Warning,70,2025-06-09
+I0160,Camera Module,L2,M5,Morning,45,55,115.16,0.85,0.9,131,OP128,FR4,Solder Bridge,Low,Fail,39,Warning,22,2025-06-10
+I0161,Power Supply Unit,L2,M4,Evening,49,47,135.71,0.41,1.45,124,OP103,Copper,PCB Crack,Medium,Pass,38,Good,36,2025-06-11
+I0162,Power Supply Unit,L2,M1,Night,36,40,209.3,1.03,3.35,124,OP103,FR4,Misalignment,Low,Pass,41,Good,30,2025-06-12
+I0163,Microcontroller Board,L3,M4,Morning,38,54,28.15,3.53,3.89,93,OP121,Copper,Solder Bridge,Medium,Pass,37,Good,38,2025-06-13
+I0164,Battery Pack,L4,M1,Morning,40,52,170.59,0.21,1.75,127,OP105,Aluminum,PCB Crack,High,Pass,41,Warning,86,2025-06-14
+I0165,Microcontroller Board,L2,M3,Evening,50,56,27.38,4.87,3.32,133,OP107,Aluminum,Burn Mark,Low,Fail,59,Good,93,2025-06-15
+I0166,Battery Pack,L4,M1,Morning,41,62,192.17,2.59,3.16,92,OP113,Aluminum,Burn Mark,Low,Pass,60,Warning,53,2025-06-16
+I0167,Relay Module,L4,M4,Evening,55,50,197.64,1.39,2.02,107,OP108,FR4,Missing Component,Medium,Pass,53,Good,73,2025-06-17
+I0168,Power Supply Unit,L4,M5,Night,40,60,112.8,4.47,1.09,116,OP118,Copper,Misalignment,Low,Fail,4,Critical,71,2025-06-18
+I0169,Camera Module,L3,M4,Morning,46,43,198.75,3.29,0.59,137,OP108,Aluminum,Open Circuit,Medium,Pass,0,Good,55,2025-06-19
+I0170,PCB,L2,M1,Evening,49,60,116.1,0.49,4.21,149,OP121,Aluminum,Misalignment,Medium,Pass,8,Good,33,2025-06-20
+I0171,LED Driver,L2,M5,Night,54,45,23.57,3.63,3.67,83,OP117,Ceramic,Burn Mark,Low,Pass,42,Critical,63,2025-06-21
+I0172,Camera Module,L2,M1,Morning,48,57,155.95,2.7,3.38,130,OP108,Copper,Misalignment,Low,Fail,52,Critical,61,2025-06-22
+I0173,Display Unit,L4,M4,Night,41,49,54.08,1.73,3.12,130,OP118,Copper,Burn Mark,Low,Pass,53,Warning,100,2025-06-23
+I0174,Microcontroller Board,L4,M5,Evening,38,63,28.29,3.61,2.74,149,OP103,Ceramic,Burn Mark,Low,Fail,46,Warning,14,2025-06-24
+I0175,Relay Module,L4,M2,Night,38,61,41.06,3.65,1.44,88,OP101,FR4,Misalignment,Low,Fail,35,Good,22,2025-06-25
+I0176,PCB,L1,M3,Night,49,57,159.72,0.47,1.52,90,OP125,Aluminum,Missing Component,Low,Pass,27,Warning,48,2025-06-26
+I0177,Microcontroller Board,L1,M1,Evening,35,49,129.45,3.09,4.15,144,OP108,FR4,Burn Mark,Medium,Pass,24,Critical,38,2025-06-27
+I0178,Display Unit,L3,M1,Morning,52,46,229.12,3.51,3.66,104,OP122,Copper,Short Circuit,Low,Fail,2,Warning,39,2025-06-28
+I0179,Microcontroller Board,L3,M2,Night,50,62,43.08,4.45,3.49,108,OP105,Aluminum,Loose Connection,Low,Pass,8,Warning,27,2025-06-29
+I0180,Battery Pack,L1,M3,Morning,52,59,90.52,1.49,2.16,136,OP119,FR4,Solder Bridge,Low,Pass,58,Warning,43,2025-06-30
+I0181,Microcontroller Board,L3,M3,Morning,54,60,66.81,0.47,2.3,129,OP124,Copper,Short Circuit,Low,Fail,15,Warning,84,2025-07-01
+I0182,LED Driver,L4,M5,Evening,49,48,150.91,4.79,0.76,123,OP122,Ceramic,Burn Mark,Medium,Pass,27,Warning,69,2025-07-02
+I0183,Battery Pack,L4,M1,Night,51,52,110.48,4.86,2.87,125,OP112,Copper,Open Circuit,Low,Pass,2,Warning,17,2025-07-03
+I0184,Relay Module,L1,M3,Night,53,49,136.09,3.39,0.91,95,OP109,FR4,PCB Crack,Medium,Pass,35,Critical,15,2025-07-04
+I0185,Camera Module,L1,M4,Morning,35,47,112.98,3.84,1.25,112,OP130,Aluminum,PCB Crack,Low,Pass,12,Critical,83,2025-07-05
+I0186,Camera Module,L2,M4,Night,42,54,57.1,3.38,3.05,108,OP128,Copper,Missing Component,Low,Fail,13,Warning,93,2025-07-06
+I0187,LED Driver,L1,M3,Night,54,53,165.14,2.65,1.44,102,OP128,Copper,Loose Connection,Low,Pass,4,Warning,36,2025-07-07
+I0188,Camera Module,L3,M2,Morning,49,60,123.92,1.53,1.17,85,OP123,Ceramic,Burn Mark,Medium,Pass,55,Warning,53,2025-07-08
+I0189,Relay Module,L1,M5,Night,46,58,33.41,0.71,2.52,123,OP110,FR4,PCB Crack,High,Pass,19,Warning,29,2025-07-09
+I0190,Relay Module,L4,M1,Night,38,63,145.85,1.25,3.63,108,OP101,Copper,Short Circuit,Low,Fail,9,Good,26,2025-07-10
+I0191,Display Unit,L2,M4,Night,39,62,47.91,1.21,4.22,108,OP121,Aluminum,Misalignment,Low,Pass,50,Warning,30,2025-07-11
+I0192,Wi-Fi Module,L2,M4,Night,42,62,159.79,4.46,2.25,99,OP128,Aluminum,Misalignment,Low,Pass,46,Critical,13,2025-07-12
+I0193,Camera Module,L3,M5,Morning,44,58,130.44,2.05,4.1,143,OP115,Copper,PCB Crack,Medium,Fail,13,Critical,18,2025-07-13
+I0194,Display Unit,L4,M2,Evening,52,50,143.6,4.06,2.29,113,OP109,Ceramic,Misalignment,Medium,Pass,15,Good,15,2025-07-14
+I0195,Display Unit,L1,M4,Morning,47,42,171.5,0.9,1.11,115,OP112,Copper,Burn Mark,Medium,Fail,16,Critical,52,2025-07-15
+I0196,Camera Module,L2,M3,Morning,43,59,36.67,1.29,0.68,121,OP118,Ceramic,Short Circuit,High,Pass,34,Critical,99,2025-07-16
+I0197,Microcontroller Board,L4,M2,Morning,55,60,221.54,0.39,1.58,107,OP117,Copper,Short Circuit,Low,Pass,47,Good,98,2025-07-17
+I0198,Display Unit,L4,M4,Night,43,50,25.12,1.29,2.25,106,OP118,FR4,Misalignment,Low,Fail,59,Critical,66,2025-07-18
+I0199,LED Driver,L2,M1,Night,45,45,19.25,3.59,1.39,117,OP119,Ceramic,Short Circuit,Low,Pass,57,Warning,96,2025-07-19
+I0200,Relay Module,L2,M3,Night,51,43,227.45,4.39,3.66,89,OP103,Ceramic,Short Circuit,Low,Fail,9,Critical,32,2025-07-20
+I0201,Camera Module,L1,M1,Evening,53,44,26.82,3.12,0.97,146,OP113,Copper,Burn Mark,Medium,Fail,56,Good,14,2025-07-21
+I0202,Power Supply Unit,L2,M5,Morning,55,59,130.99,4.09,4.32,85,OP129,Ceramic,Misalignment,Low,Pass,13,Critical,14,2025-07-22
+I0203,PCB,L3,M5,Evening,45,56,55.93,2.67,4.4,118,OP114,FR4,Loose Connection,Low,Fail,53,Good,73,2025-07-23
+I0204,Microcontroller Board,L3,M2,Evening,53,48,80.27,4.39,1.49,127,OP128,Aluminum,Misalignment,Low,Fail,49,Warning,60,2025-07-24
+I0205,Relay Module,L4,M5,Night,49,58,119.61,2.93,3.35,102,OP108,FR4,Burn Mark,Low,Fail,22,Good,82,2025-07-25
+I0206,Microcontroller Board,L1,M5,Evening,49,65,110.27,3.46,0.77,87,OP121,Copper,Burn Mark,Low,Pass,6,Warning,64,2025-07-26
+I0207,Camera Module,L4,M5,Night,35,48,153.37,0.31,2.96,92,OP130,Ceramic,Loose Connection,Low,Fail,23,Critical,96,2025-07-27
+I0208,Battery Pack,L4,M2,Evening,48,45,94.54,1.04,1.17,135,OP109,FR4,Loose Connection,Low,Fail,27,Warning,38,2025-07-28
+I0209,Wi-Fi Module,L3,M3,Evening,55,57,140.91,3.08,3.84,109,OP112,Ceramic,Solder Bridge,Medium,Fail,15,Critical,62,2025-07-29
+I0210,Display Unit,L1,M1,Morning,38,48,8.63,1.53,3.55,129,OP124,FR4,Short Circuit,Medium,Fail,52,Good,66,2025-07-30
+I0211,PCB,L4,M3,Morning,35,46,167.43,0.86,4.44,107,OP112,FR4,Misalignment,Low,Fail,10,Warning,22,2025-07-31
+I0212,Display Unit,L2,M5,Night,37,60,97.82,2.97,1.55,126,OP114,Ceramic,Short Circuit,High,Pass,32,Warning,38,2025-08-01
+I0213,PCB,L2,M5,Morning,52,64,33.22,1.4,3.99,81,OP112,Aluminum,Open Circuit,High,Pass,9,Good,95,2025-08-02
+I0214,Sensor Module,L3,M1,Night,41,55,175.21,3.94,3.52,84,OP103,Aluminum,Open Circuit,Low,Fail,10,Critical,69,2025-08-03
+I0215,Power Supply Unit,L3,M1,Morning,37,60,117.46,3.84,1.71,110,OP130,FR4,Loose Connection,High,Pass,0,Warning,59,2025-08-04
+I0216,PCB,L3,M3,Morning,54,46,75.97,4.99,4.41,122,OP109,Aluminum,Loose Connection,Low,Pass,11,Warning,32,2025-08-05
+I0217,Camera Module,L1,M1,Morning,45,53,205.05,0.69,3.7,116,OP101,Aluminum,Misalignment,Low,Fail,22,Good,43,2025-08-06
+I0218,Sensor Module,L4,M2,Morning,53,59,195.25,3.43,4.28,105,OP117,FR4,Short Circuit,Low,Pass,0,Good,14,2025-08-07
+I0219,Microcontroller Board,L2,M4,Night,42,43,160.84,0.56,2.67,124,OP112,Copper,Loose Connection,Low,Pass,6,Critical,87,2025-08-08
+I0220,Microcontroller Board,L3,M4,Evening,38,51,69.16,4.67,2.54,90,OP118,Aluminum,Loose Connection,Low,Fail,38,Warning,96,2025-08-09
+I0221,Microcontroller Board,L2,M3,Night,42,40,207.61,1.63,4.28,142,OP113,Copper,Burn Mark,Low,Fail,22,Warning,17,2025-08-10
+I0222,Camera Module,L3,M2,Night,43,57,56.62,1.49,0.6,125,OP105,Ceramic,Misalignment,Medium,Pass,32,Warning,45,2025-08-11
+I0223,Battery Pack,L2,M5,Night,54,50,178.44,1.71,0.58,112,OP114,Copper,Missing Component,Medium,Pass,56,Good,49,2025-08-12
+I0224,Power Supply Unit,L1,M4,Evening,55,53,63.34,2.1,4.01,82,OP106,Aluminum,Burn Mark,Low,Fail,11,Good,71,2025-08-13
+I0225,Sensor Module,L1,M3,Evening,55,46,75.57,0.34,1.31,96,OP121,Ceramic,Loose Connection,Low,Fail,21,Warning,10,2025-08-14
+I0226,Wi-Fi Module,L2,M4,Night,54,52,203.87,1.34,2.76,127,OP127,Aluminum,PCB Crack,Low,Fail,41,Warning,31,2025-08-15
+I0227,LED Driver,L1,M5,Morning,55,42,225.17,0.88,2.68,81,OP129,FR4,Misalignment,Medium,Fail,12,Warning,73,2025-08-16
+I0228,Battery Pack,L1,M4,Morning,55,65,178.44,2.93,2.02,88,OP123,Ceramic,Loose Connection,Low,Pass,6,Warning,14,2025-08-17
+I0229,Battery Pack,L2,M4,Morning,47,63,30.91,4.14,3.72,96,OP101,Copper,Solder Bridge,Medium,Pass,2,Good,39,2025-08-18
+I0230,Wi-Fi Module,L2,M3,Evening,46,53,202.36,3.63,2.95,80,OP106,Ceramic,Burn Mark,Low,Fail,2,Critical,54,2025-08-19
+I0231,Power Supply Unit,L3,M2,Evening,47,61,41.35,0.63,2.83,86,OP124,Copper,Missing Component,High,Fail,34,Good,37,2025-08-20
+I0232,Display Unit,L2,M2,Morning,51,43,117.11,2.68,2.33,85,OP120,FR4,Open Circuit,Low,Pass,51,Critical,93,2025-08-21
+I0233,Relay Module,L2,M1,Evening,38,46,224.5,1.98,0.7,99,OP119,Copper,Missing Component,Low,Pass,51,Good,24,2025-08-22
+I0234,Microcontroller Board,L1,M3,Morning,55,41,152.83,0.25,0.73,93,OP124,Aluminum,Solder Bridge,Low,Pass,19,Critical,83,2025-08-23
+I0235,LED Driver,L1,M4,Evening,42,56,136.6,4.13,3.24,123,OP129,Copper,Misalignment,Medium,Fail,22,Good,11,2025-08-24
+I0236,Camera Module,L3,M2,Morning,54,52,37.86,3.19,1.87,91,OP113,Copper,Loose Connection,Low,Fail,13,Good,40,2025-08-25
+I0237,Camera Module,L3,M3,Evening,52,58,177.62,3.41,3.25,107,OP111,FR4,Loose Connection,Low,Fail,3,Good,86,2025-08-26
+I0238,Battery Pack,L3,M2,Evening,36,45,121.1,2.41,2.42,119,OP105,Ceramic,Loose Connection,Medium,Pass,7,Good,84,2025-08-27
+I0239,Wi-Fi Module,L4,M5,Evening,50,65,132.23,3.56,2.66,110,OP116,FR4,Solder Bridge,Low,Pass,16,Warning,30,2025-08-28
+I0240,Microcontroller Board,L4,M1,Evening,49,50,13.14,1.58,2.79,102,OP113,FR4,Missing Component,Low,Pass,9,Warning,61,2025-08-29
+I0241,Wi-Fi Module,L3,M1,Night,55,47,11.05,4.06,3.63,84,OP117,Aluminum,Misalignment,Low,Fail,39,Critical,56,2025-08-30
+I0242,Microcontroller Board,L2,M5,Evening,49,60,101.52,4.39,3.19,113,OP118,FR4,Solder Bridge,Medium,Pass,60,Warning,40,2025-08-31
+I0243,PCB,L4,M1,Morning,42,57,168.01,2.05,1.87,109,OP118,Ceramic,Open Circuit,Medium,Fail,44,Warning,85,2025-09-01
+I0244,Relay Module,L1,M2,Morning,50,51,173.88,3.52,4.38,135,OP126,Copper,Missing Component,Medium,Fail,20,Warning,26,2025-09-02
+I0245,Wi-Fi Module,L3,M5,Morning,45,51,93.42,4.07,1.1,121,OP125,FR4,Missing Component,Low,Fail,56,Warning,79,2025-09-03
+I0246,Microcontroller Board,L3,M2,Night,51,42,49.23,1.78,2.75,96,OP102,FR4,Misalignment,Medium,Pass,19,Critical,20,2025-09-04
+I0247,Wi-Fi Module,L3,M1,Night,43,45,193.19,4.13,2.03,87,OP124,FR4,Loose Connection,Low,Fail,49,Warning,31,2025-09-05
+I0248,LED Driver,L4,M5,Night,45,45,200.76,0.92,4.27,144,OP121,FR4,PCB Crack,Low,Fail,19,Good,88,2025-09-06
+I0249,Camera Module,L4,M2,Morning,46,64,71.23,2.34,0.7,105,OP122,Copper,Solder Bridge,Medium,Fail,22,Warning,10,2025-09-07
+I0250,LED Driver,L3,M3,Evening,44,47,113.65,4.61,3.84,127,OP101,FR4,Solder Bridge,Low,Fail,14,Warning,58,2025-09-08
+I0251,Sensor Module,L1,M3,Evening,49,64,201.89,1.35,2.67,111,OP126,Copper,Open Circuit,Low,Fail,11,Warning,36,2025-09-09
+I0252,Camera Module,L2,M3,Morning,43,53,203.22,2.25,2.67,127,OP113,Aluminum,Misalignment,Medium,Fail,5,Good,80,2025-09-10
+I0253,Wi-Fi Module,L2,M1,Morning,42,65,67.08,0.33,0.99,122,OP120,Ceramic,Missing Component,Low,Fail,39,Critical,79,2025-09-11
+I0254,Battery Pack,L4,M4,Morning,36,44,75.78,3.47,3.4,96,OP125,Ceramic,Solder Bridge,Low,Fail,35,Critical,36,2025-09-12
+I0255,LED Driver,L4,M2,Evening,42,54,9.62,0.29,0.62,101,OP117,FR4,PCB Crack,Medium,Pass,22,Critical,17,2025-09-13
+I0256,Sensor Module,L2,M5,Evening,50,62,16.65,4.54,2.86,90,OP125,Copper,Burn Mark,Low,Pass,39,Good,40,2025-09-14
+I0257,LED Driver,L4,M3,Night,50,50,187.28,0.43,2.5,107,OP122,Aluminum,Missing Component,Medium,Pass,34,Critical,17,2025-09-15
+I0258,Microcontroller Board,L1,M4,Evening,36,65,105.52,1.65,3.62,140,OP102,FR4,Open Circuit,Low,Pass,12,Warning,86,2025-09-16
+I0259,Sensor Module,L1,M3,Evening,43,43,8.58,2.23,0.6,144,OP127,Aluminum,PCB Crack,Medium,Fail,28,Warning,91,2025-09-17
+I0260,PCB,L4,M4,Morning,45,57,171.16,0.41,2.04,110,OP113,Aluminum,Burn Mark,High,Pass,57,Warning,65,2025-09-18
+I0261,Camera Module,L4,M3,Evening,45,46,149.37,2.88,1.24,106,OP106,Ceramic,Burn Mark,Low,Pass,25,Critical,45,2025-09-19
+I0262,Microcontroller Board,L1,M4,Evening,39,61,46.58,2.99,0.84,91,OP127,Ceramic,Missing Component,Low,Pass,23,Critical,15,2025-09-20
+I0263,LED Driver,L3,M1,Evening,38,64,6.21,4.3,0.99,90,OP113,Aluminum,Open Circuit,High,Fail,27,Warning,28,2025-09-21
+I0264,Battery Pack,L3,M4,Morning,54,48,107.36,4.27,1.23,128,OP129,FR4,Short Circuit,Low,Fail,35,Warning,87,2025-09-22
+I0265,Camera Module,L4,M1,Morning,36,56,42.85,4.48,2.36,134,OP107,Copper,PCB Crack,Low,Pass,28,Warning,55,2025-09-23
+I0266,LED Driver,L4,M5,Morning,49,60,96.36,2.51,0.67,81,OP120,Copper,Open Circuit,Low,Fail,41,Good,46,2025-09-24
+I0267,Wi-Fi Module,L1,M2,Morning,55,61,170.73,2.3,4.38,143,OP114,FR4,Missing Component,Low,Fail,53,Warning,46,2025-09-25
+I0268,Microcontroller Board,L3,M2,Evening,36,53,221.55,1.8,1.67,104,OP111,Aluminum,Open Circuit,Low,Fail,25,Good,58,2025-09-26
+I0269,Power Supply Unit,L1,M3,Morning,41,42,157.15,3.76,0.63,91,OP112,Copper,Burn Mark,Low,Fail,21,Warning,70,2025-09-27
+I0270,LED Driver,L4,M2,Night,41,63,150.17,1.31,1.99,119,OP107,Ceramic,Burn Mark,Low,Fail,4,Good,13,2025-09-28
+I0271,Relay Module,L2,M3,Night,54,51,105.84,4.26,3.12,93,OP117,Copper,Short Circuit,Low,Fail,48,Good,59,2025-09-29
+I0272,Display Unit,L1,M5,Evening,55,61,71.41,0.66,1.21,125,OP101,FR4,Open Circuit,Medium,Fail,5,Warning,62,2025-09-30
+I0273,Display Unit,L2,M2,Evening,38,64,221.93,3.32,1.61,119,OP123,Copper,Open Circuit,Low,Fail,56,Warning,83,2025-10-01
+I0274,Relay Module,L3,M2,Evening,35,43,203.84,4.6,2.21,120,OP123,Copper,Short Circuit,Low,Fail,40,Critical,55,2025-10-02
+I0275,Power Supply Unit,L3,M4,Evening,45,62,39.94,3.05,1.81,132,OP102,FR4,PCB Crack,High,Fail,18,Critical,16,2025-10-03
+I0276,Display Unit,L4,M1,Morning,45,52,171.3,1.98,0.61,148,OP126,Aluminum,Short Circuit,Low,Pass,37,Critical,56,2025-10-04
+I0277,Wi-Fi Module,L1,M4,Night,41,64,70.09,2.68,1.18,87,OP122,Aluminum,Short Circuit,Low,Fail,22,Good,16,2025-10-05
+I0278,Battery Pack,L1,M1,Morning,45,50,45.2,2.52,1.15,149,OP111,Aluminum,PCB Crack,Medium,Fail,48,Critical,50,2025-10-06
+I0279,Sensor Module,L3,M1,Evening,45,52,126.57,2.76,3.06,119,OP122,Aluminum,Short Circuit,Low,Fail,39,Good,63,2025-10-07
+I0280,Sensor Module,L1,M1,Evening,55,49,215.95,4.76,4.35,144,OP108,Ceramic,Solder Bridge,High,Fail,31,Warning,20,2025-10-08
+I0281,PCB,L1,M3,Morning,40,43,143.38,3.22,0.83,111,OP102,FR4,Missing Component,Medium,Fail,18,Warning,23,2025-10-09
+I0282,Power Supply Unit,L4,M1,Morning,39,45,223.14,0.62,0.77,96,OP110,Copper,Burn Mark,Low,Fail,57,Critical,16,2025-10-10
+I0283,Sensor Module,L2,M1,Evening,42,57,172.17,2.53,3.82,124,OP129,Copper,Loose Connection,Medium,Pass,52,Warning,98,2025-10-11
+I0284,Microcontroller Board,L3,M5,Night,48,52,9.85,1.64,2.35,117,OP102,Aluminum,Misalignment,Low,Fail,28,Warning,29,2025-10-12
+I0285,LED Driver,L2,M1,Morning,55,42,117.33,2.52,3.0,132,OP116,Ceramic,Solder Bridge,High,Pass,18,Critical,40,2025-10-13
+I0286,Microcontroller Board,L4,M2,Evening,40,53,209.44,0.73,1.95,81,OP126,Ceramic,Missing Component,Low,Fail,11,Warning,38,2025-10-14
+I0287,Microcontroller Board,L1,M5,Night,40,57,211.62,0.34,3.24,121,OP116,Aluminum,Burn Mark,Low,Fail,45,Critical,17,2025-10-15
+I0288,Camera Module,L2,M4,Morning,41,57,117.9,2.85,3.21,128,OP111,Ceramic,PCB Crack,Medium,Fail,16,Critical,61,2025-10-16
+I0289,Wi-Fi Module,L2,M1,Morning,40,65,218.08,2.97,2.78,80,OP127,FR4,Open Circuit,Medium,Fail,47,Warning,26,2025-10-17
+I0290,Wi-Fi Module,L2,M1,Morning,48,62,107.2,3.93,2.43,135,OP101,Aluminum,Solder Bridge,Low,Fail,49,Good,59,2025-10-18
+I0291,Wi-Fi Module,L4,M1,Evening,46,60,116.0,2.15,0.71,82,OP117,Ceramic,Loose Connection,Low,Pass,29,Critical,24,2025-10-19
+I0292,Camera Module,L1,M1,Evening,55,46,134.37,4.31,0.61,119,OP127,Aluminum,Short Circuit,Medium,Pass,19,Critical,65,2025-10-20
+I0293,Wi-Fi Module,L4,M2,Evening,40,62,86.14,1.47,3.38,102,OP111,Ceramic,Loose Connection,High,Fail,22,Good,95,2025-10-21
+I0294,Power Supply Unit,L3,M4,Morning,39,46,115.19,3.82,4.29,89,OP128,Ceramic,Solder Bridge,Medium,Fail,22,Warning,67,2025-10-22
+I0295,Relay Module,L1,M3,Night,49,49,105.44,3.53,3.39,114,OP112,FR4,Loose Connection,Low,Fail,11,Warning,18,2025-10-23
+I0296,Wi-Fi Module,L1,M2,Evening,47,48,143.92,0.74,3.44,87,OP122,FR4,Short Circuit,Low,Pass,18,Critical,54,2025-10-24
+I0297,Sensor Module,L1,M4,Evening,49,64,110.5,2.08,3.61,98,OP119,FR4,Loose Connection,Medium,Fail,9,Critical,61,2025-10-25
+I0298,Sensor Module,L4,M3,Morning,36,57,227.2,0.71,2.48,142,OP130,Copper,PCB Crack,High,Fail,6,Warning,74,2025-10-26
+I0299,Relay Module,L4,M2,Night,55,58,141.93,0.88,3.77,138,OP120,Aluminum,Loose Connection,High,Fail,48,Good,34,2025-10-27
+I0300,Power Supply Unit,L2,M3,Evening,55,51,206.04,2.62,4.46,86,OP111,Ceramic,Burn Mark,Medium,Fail,7,Critical,25,2025-10-28
+I0301,Relay Module,L2,M1,Night,55,41,37.23,3.35,2.64,136,OP110,Copper,Misalignment,Medium,Fail,25,Warning,64,2025-10-29
+I0302,Display Unit,L1,M5,Night,52,65,102.74,2.66,0.84,92,OP109,Ceramic,Short Circuit,Medium,Pass,49,Warning,90,2025-10-30
+I0303,Display Unit,L1,M2,Evening,45,46,132.39,1.67,0.94,139,OP109,Aluminum,Misalignment,Medium,Pass,32,Critical,50,2025-10-31
+I0304,Camera Module,L4,M4,Night,51,54,76.53,0.53,4.05,148,OP121,Aluminum,Misalignment,Medium,Pass,60,Critical,34,2025-11-01
+I0305,Relay Module,L4,M1,Night,45,63,5.96,4.13,3.47,131,OP106,Copper,Short Circuit,Low,Fail,52,Warning,48,2025-11-02
+I0306,Power Supply Unit,L2,M5,Morning,40,54,133.47,5.0,1.73,108,OP130,FR4,Missing Component,Low,Pass,11,Warning,19,2025-11-03
+I0307,LED Driver,L3,M5,Evening,38,65,61.61,1.78,1.87,115,OP116,Aluminum,PCB Crack,Medium,Pass,53,Critical,50,2025-11-04
+I0308,Relay Module,L3,M3,Morning,46,46,198.4,4.21,2.91,94,OP112,Copper,Burn Mark,Low,Pass,0,Critical,58,2025-11-05
+I0309,Microcontroller Board,L1,M3,Evening,49,41,226.37,2.31,0.72,106,OP106,Copper,Burn Mark,Low,Pass,60,Warning,19,2025-11-06
+I0310,Relay Module,L4,M4,Evening,35,59,59.96,2.92,1.89,107,OP123,Ceramic,Open Circuit,Medium,Pass,60,Critical,87,2025-11-07
+I0311,Display Unit,L2,M3,Morning,41,45,140.47,0.99,4.33,121,OP110,Copper,Short Circuit,Low,Pass,28,Warning,55,2025-11-08
+I0312,Relay Module,L4,M4,Evening,54,65,149.77,0.23,2.14,121,OP126,Copper,PCB Crack,Low,Fail,36,Critical,21,2025-11-09
+I0313,Relay Module,L2,M5,Morning,43,58,37.1,2.51,4.18,140,OP103,Ceramic,Loose Connection,High,Pass,9,Warning,94,2025-11-10
+I0314,Camera Module,L1,M5,Morning,44,53,135.57,3.22,2.7,122,OP118,Copper,Burn Mark,Low,Fail,32,Warning,62,2025-11-11
+I0315,Camera Module,L3,M1,Evening,54,53,35.19,3.49,2.91,113,OP110,Ceramic,Open Circuit,Low,Pass,60,Warning,53,2025-11-12
+I0316,Relay Module,L4,M4,Evening,37,46,192.04,3.43,1.37,150,OP121,FR4,PCB Crack,High,Fail,40,Good,80,2025-11-13
+I0317,Microcontroller Board,L1,M5,Night,54,64,76.16,0.97,3.13,150,OP102,Aluminum,Missing Component,Low,Pass,37,Warning,42,2025-11-14
+I0318,Microcontroller Board,L2,M5,Evening,55,43,29.67,1.33,3.76,117,OP107,Copper,Open Circuit,Medium,Fail,20,Good,77,2025-11-15
+I0319,Display Unit,L2,M1,Evening,35,47,106.95,4.27,1.19,142,OP123,Aluminum,Missing Component,High,Fail,42,Warning,60,2025-11-16
+I0320,Wi-Fi Module,L4,M2,Morning,52,59,139.99,2.48,1.06,140,OP126,Ceramic,Short Circuit,Medium,Pass,37,Critical,96,2025-11-17
+I0321,Camera Module,L2,M2,Night,43,54,201.83,3.34,2.41,88,OP122,Copper,Solder Bridge,Low,Fail,47,Warning,20,2025-11-18
+I0322,Microcontroller Board,L2,M1,Morning,40,43,86.86,1.59,0.65,141,OP122,Ceramic,Short Circuit,High,Fail,16,Critical,57,2025-11-19
+I0323,Microcontroller Board,L4,M4,Night,45,52,157.74,4.05,3.63,83,OP106,Ceramic,Short Circuit,Medium,Pass,9,Warning,99,2025-11-20
+I0324,PCB,L4,M1,Night,40,53,3.73,0.24,4.33,126,OP129,FR4,Solder Bridge,High,Fail,35,Warning,46,2025-11-21
+I0325,Wi-Fi Module,L3,M5,Night,35,55,157.97,3.57,3.24,126,OP127,Ceramic,Misalignment,Low,Fail,12,Warning,39,2025-11-22
+I0326,LED Driver,L2,M1,Evening,42,50,17.79,2.67,1.37,87,OP106,Aluminum,Open Circuit,High,Pass,36,Good,63,2025-11-23
+I0327,Power Supply Unit,L2,M5,Night,42,40,219.3,1.62,0.67,124,OP108,Aluminum,Open Circuit,High,Fail,59,Warning,19,2025-11-24
+I0328,Display Unit,L3,M5,Evening,41,42,28.73,4.12,0.8,80,OP125,Copper,PCB Crack,High,Fail,58,Critical,90,2025-11-25
+I0329,Display Unit,L1,M5,Morning,53,46,153.11,1.72,3.67,118,OP126,Copper,PCB Crack,High,Pass,16,Warning,38,2025-11-26
+I0330,PCB,L4,M5,Morning,37,52,129.05,1.6,1.72,134,OP121,Aluminum,Misalignment,Medium,Fail,50,Warning,38,2025-11-27
+I0331,Display Unit,L4,M5,Night,36,41,5.2,1.8,1.85,133,OP105,Aluminum,Missing Component,Low,Fail,0,Good,62,2025-11-28
+I0332,Microcontroller Board,L1,M3,Night,48,54,15.69,1.79,0.97,107,OP112,Ceramic,PCB Crack,Low,Pass,5,Critical,37,2025-11-29
+I0333,Camera Module,L4,M5,Morning,55,53,198.88,0.96,1.24,94,OP123,FR4,Missing Component,Medium,Pass,56,Warning,50,2025-11-30
+I0334,LED Driver,L4,M2,Night,45,55,15.58,3.67,3.28,94,OP107,Copper,Loose Connection,High,Fail,12,Warning,20,2025-12-01
+I0335,Display Unit,L4,M4,Night,45,58,160.76,0.45,0.79,94,OP108,Aluminum,Open Circuit,Medium,Fail,46,Critical,23,2025-12-02
+I0336,Microcontroller Board,L1,M2,Evening,47,58,202.56,4.44,0.85,91,OP124,FR4,Missing Component,High,Fail,50,Critical,78,2025-12-03
+I0337,Microcontroller Board,L3,M4,Night,48,53,138.65,0.21,1.55,98,OP122,Ceramic,Missing Component,Medium,Fail,8,Critical,64,2025-12-04
+I0338,Relay Module,L3,M5,Evening,50,43,197.45,1.15,3.24,131,OP115,FR4,Missing Component,Medium,Pass,32,Critical,79,2025-12-05
+I0339,Wi-Fi Module,L4,M4,Night,55,54,157.0,5.0,2.77,145,OP128,Copper,Misalignment,Low,Pass,39,Good,53,2025-12-06
+I0340,PCB,L3,M1,Morning,41,59,24.54,3.4,3.24,88,OP115,FR4,Loose Connection,Low,Pass,28,Warning,55,2025-12-07
+I0341,Camera Module,L4,M5,Night,41,65,224.29,2.0,1.74,84,OP121,Aluminum,PCB Crack,Low,Fail,27,Warning,16,2025-12-08
+I0342,PCB,L3,M1,Evening,39,56,46.93,2.25,3.91,125,OP126,Ceramic,Burn Mark,Low,Fail,54,Warning,62,2025-12-09
+I0343,Camera Module,L2,M1,Night,41,53,188.4,0.85,3.14,138,OP113,Aluminum,PCB Crack,High,Fail,27,Good,100,2025-12-10
+I0344,Sensor Module,L2,M4,Night,42,61,115.9,1.42,0.7,113,OP119,Copper,Short Circuit,High,Fail,2,Critical,86,2025-12-11
+I0345,Battery Pack,L1,M1,Morning,41,57,157.51,1.57,4.37,91,OP124,Ceramic,Short Circuit,Low,Fail,49,Critical,26,2025-12-12
+I0346,Relay Module,L3,M1,Evening,53,64,67.52,0.93,4.42,117,OP113,Copper,Solder Bridge,Medium,Fail,44,Warning,27,2025-12-13
+I0347,PCB,L3,M1,Night,51,64,32.67,1.78,1.42,81,OP116,Aluminum,Open Circuit,Low,Fail,37,Warning,39,2025-12-14
+I0348,LED Driver,L4,M2,Night,50,47,83.63,3.2,3.01,94,OP124,Aluminum,Short Circuit,High,Pass,42,Critical,95,2025-12-15
+I0349,Power Supply Unit,L4,M5,Morning,37,52,124.05,1.51,1.78,109,OP113,Ceramic,Burn Mark,Low,Fail,48,Critical,64,2025-12-16
+I0350,Sensor Module,L1,M4,Evening,35,48,91.06,1.36,1.56,131,OP130,Ceramic,Misalignment,Low,Pass,13,Warning,28,2025-12-17
+I0351,Wi-Fi Module,L1,M4,Evening,35,56,206.96,3.31,0.57,142,OP106,Aluminum,Loose Connection,Low,Fail,2,Warning,54,2025-12-18
+I0352,Display Unit,L3,M3,Night,54,65,64.2,3.45,2.28,132,OP123,Ceramic,Open Circuit,High,Pass,52,Warning,55,2025-12-19
+I0353,PCB,L3,M4,Morning,49,62,218.06,0.64,2.94,138,OP105,Ceramic,Loose Connection,Medium,Pass,8,Warning,46,2025-12-20
+I0354,Sensor Module,L4,M5,Morning,45,44,34.31,4.7,0.78,117,OP107,Aluminum,Solder Bridge,Medium,Fail,10,Critical,70,2025-12-21
+I0355,Wi-Fi Module,L2,M1,Morning,44,49,97.08,3.3,3.2,126,OP113,FR4,Open Circuit,Low,Pass,18,Warning,99,2025-12-22
+I0356,Display Unit,L4,M5,Morning,47,63,62.39,2.2,2.46,96,OP108,Aluminum,PCB Crack,High,Pass,34,Warning,16,2025-12-23
+I0357,Power Supply Unit,L4,M1,Evening,36,52,81.8,2.27,3.54,112,OP115,Copper,Solder Bridge,High,Pass,41,Good,25,2025-12-24
+I0358,Microcontroller Board,L1,M5,Morning,39,63,219.57,3.61,0.83,88,OP123,Ceramic,Burn Mark,Low,Fail,33,Good,83,2025-12-25
+I0359,Microcontroller Board,L4,M2,Night,42,57,220.63,0.44,1.59,102,OP106,Ceramic,Burn Mark,Medium,Fail,34,Critical,92,2025-12-26
+I0360,Battery Pack,L3,M5,Night,35,59,93.92,4.3,1.45,139,OP106,FR4,Missing Component,Low,Fail,53,Good,66,2025-12-27
+I0361,Sensor Module,L4,M3,Morning,41,61,126.74,0.27,3.84,134,OP115,Ceramic,Misalignment,Low,Fail,11,Good,91,2025-12-28
+I0362,PCB,L2,M1,Night,37,48,159.77,4.14,3.45,133,OP118,Copper,PCB Crack,Low,Pass,59,Warning,99,2025-12-29
+I0363,Relay Module,L1,M4,Evening,39,51,83.89,1.41,2.15,131,OP104,Copper,Burn Mark,Medium,Pass,4,Warning,92,2025-12-30
+I0364,Microcontroller Board,L4,M5,Night,52,61,118.03,3.34,1.69,150,OP108,Ceramic,PCB Crack,Medium,Fail,8,Warning,76,2025-12-31
+I0365,Battery Pack,L4,M3,Morning,50,54,80.59,0.61,2.1,111,OP119,FR4,Misalignment,High,Fail,17,Critical,58,2026-01-01
+I0366,Microcontroller Board,L4,M5,Morning,37,52,20.33,4.8,3.92,134,OP115,Ceramic,Misalignment,Low,Pass,32,Critical,73,2026-01-02
+I0367,Battery Pack,L1,M5,Morning,38,55,109.56,4.8,2.59,107,OP117,FR4,Solder Bridge,Low,Fail,18,Good,82,2026-01-03
+I0368,LED Driver,L4,M2,Morning,51,65,211.29,2.67,0.69,146,OP126,Copper,Missing Component,High,Fail,46,Warning,91,2026-01-04
+I0369,Power Supply Unit,L4,M2,Night,36,48,93.21,2.36,0.92,149,OP101,Aluminum,Missing Component,Low,Fail,17,Good,78,2026-01-05
+I0370,Display Unit,L4,M4,Morning,44,57,22.7,3.37,1.97,148,OP113,Ceramic,PCB Crack,Medium,Pass,57,Good,27,2026-01-06
+I0371,Battery Pack,L1,M4,Night,45,63,142.76,3.53,1.13,82,OP117,Aluminum,Short Circuit,Low,Pass,31,Warning,22,2026-01-07
+I0372,Wi-Fi Module,L3,M5,Night,38,54,162.74,0.84,4.36,111,OP121,Ceramic,Loose Connection,Low,Fail,37,Critical,71,2026-01-08
+I0373,Power Supply Unit,L2,M3,Night,43,47,85.56,0.38,0.96,124,OP108,FR4,Open Circuit,Medium,Fail,38,Good,45,2026-01-09
+I0374,Power Supply Unit,L2,M1,Morning,49,48,203.07,1.23,3.39,116,OP111,Copper,Short Circuit,Low,Fail,15,Warning,66,2026-01-10
+I0375,LED Driver,L3,M4,Evening,52,46,26.82,3.36,3.22,94,OP106,Ceramic,Burn Mark,Medium,Pass,23,Critical,71,2026-01-11
+I0376,Relay Module,L1,M4,Morning,35,47,59.19,2.28,1.56,80,OP114,Ceramic,Loose Connection,Low,Pass,48,Warning,18,2026-01-12
+I0377,Battery Pack,L4,M3,Evening,38,46,93.84,1.41,4.11,133,OP103,Copper,Loose Connection,Medium,Pass,26,Good,61,2026-01-13
+I0378,Battery Pack,L2,M4,Evening,40,45,201.93,3.93,2.28,123,OP103,Aluminum,Loose Connection,High,Fail,22,Good,12,2026-01-14
+I0379,Microcontroller Board,L2,M2,Night,47,53,95.71,2.56,4.32,110,OP118,Copper,Missing Component,Medium,Pass,13,Good,80,2026-01-15
+I0380,Display Unit,L1,M4,Night,35,64,171.96,4.89,1.48,110,OP130,Copper,Short Circuit,Low,Pass,30,Warning,14,2026-01-16
+I0381,Sensor Module,L3,M4,Night,43,53,121.59,0.65,2.61,99,OP112,Ceramic,Missing Component,Medium,Pass,11,Critical,21,2026-01-17
+I0382,Relay Module,L3,M1,Night,41,64,14.9,0.21,3.64,89,OP107,FR4,Missing Component,High,Pass,0,Good,71,2026-01-18
+I0383,Camera Module,L2,M3,Night,37,50,135.61,1.93,2.69,143,OP105,Aluminum,Missing Component,Low,Fail,11,Critical,71,2026-01-19
+I0384,LED Driver,L4,M4,Morning,52,52,78.74,4.83,2.65,89,OP122,FR4,Open Circuit,Medium,Fail,3,Warning,46,2026-01-20
+I0385,Sensor Module,L3,M4,Evening,40,65,111.61,4.48,0.54,124,OP114,Copper,Misalignment,High,Pass,38,Good,71,2026-01-21
+I0386,Sensor Module,L4,M1,Night,41,63,216.82,3.79,2.34,91,OP125,Ceramic,Missing Component,Medium,Fail,13,Good,38,2026-01-22
+I0387,Camera Module,L4,M1,Night,45,58,206.42,2.58,1.43,136,OP128,Ceramic,Solder Bridge,Low,Fail,21,Good,75,2026-01-23
+I0388,Battery Pack,L3,M2,Evening,36,60,172.71,2.36,2.53,127,OP107,Ceramic,Missing Component,Medium,Pass,52,Warning,68,2026-01-24
+I0389,Power Supply Unit,L1,M1,Night,55,58,196.67,0.72,1.25,103,OP112,Copper,Missing Component,Low,Fail,54,Good,44,2026-01-25
+I0390,Relay Module,L3,M1,Night,48,64,212.4,2.61,1.41,150,OP125,Aluminum,PCB Crack,Medium,Fail,18,Good,39,2026-01-26
+I0391,Relay Module,L1,M1,Morning,54,42,172.36,3.08,3.49,114,OP122,Copper,Misalignment,Low,Pass,30,Good,81,2026-01-27
+I0392,Sensor Module,L2,M5,Morning,40,55,187.96,1.58,1.52,149,OP104,Aluminum,Solder Bridge,Medium,Pass,51,Critical,15,2026-01-28
+I0393,Camera Module,L4,M5,Morning,40,44,78.22,1.37,1.03,143,OP120,Aluminum,Loose Connection,Medium,Pass,3,Warning,88,2026-01-29
+I0394,Wi-Fi Module,L2,M2,Evening,46,43,80.55,3.48,1.83,115,OP114,Copper,Short Circuit,High,Fail,2,Good,91,2026-01-30
+I0395,PCB,L4,M5,Morning,40,51,216.95,3.62,4.07,84,OP117,Copper,Burn Mark,Low,Pass,45,Warning,55,2026-01-31
+I0396,Microcontroller Board,L4,M2,Night,53,43,83.95,1.75,3.57,137,OP124,Ceramic,Missing Component,High,Pass,13,Warning,73,2026-02-01
+I0397,Battery Pack,L4,M4,Morning,44,44,109.92,4.14,1.5,139,OP113,FR4,Open Circuit,Low,Fail,60,Critical,46,2026-02-02
+I0398,LED Driver,L4,M4,Morning,47,57,12.23,4.0,3.75,123,OP123,FR4,Solder Bridge,Low,Pass,16,Warning,68,2026-02-03
+I0399,Relay Module,L3,M4,Evening,40,40,105.37,0.85,2.04,130,OP124,Ceramic,Burn Mark,Medium,Pass,57,Warning,96,2026-02-04
+I0400,Battery Pack,L4,M4,Morning,46,40,45.22,0.49,1.88,90,OP108,Ceramic,Loose Connection,Low,Fail,7,Critical,48,2026-02-05
+I0401,Sensor Module,L4,M5,Night,35,54,175.2,2.79,2.05,127,OP128,Ceramic,Short Circuit,Medium,Pass,60,Critical,82,2026-02-06
+I0402,Sensor Module,L1,M4,Evening,36,65,229.18,2.67,2.78,102,OP119,Copper,Misalignment,Low,Pass,3,Critical,22,2026-02-07
+I0403,Camera Module,L4,M5,Morning,35,41,161.36,0.94,1.78,140,OP122,Copper,Misalignment,Low,Pass,53,Good,71,2026-02-08
+I0404,Camera Module,L4,M2,Night,46,63,164.38,2.47,2.12,112,OP117,Aluminum,Short Circuit,High,Pass,30,Good,45,2026-02-09
+I0405,LED Driver,L1,M1,Night,39,53,27.7,0.46,3.35,126,OP122,Aluminum,PCB Crack,High,Pass,1,Warning,62,2026-02-10
+I0406,Wi-Fi Module,L4,M4,Morning,36,51,8.53,3.72,3.29,92,OP118,Ceramic,Burn Mark,Low,Fail,3,Warning,79,2026-02-11
+I0407,Power Supply Unit,L1,M2,Morning,48,61,68.74,0.99,3.41,100,OP110,Copper,Short Circuit,Medium,Pass,6,Good,25,2026-02-12
+I0408,PCB,L1,M2,Morning,48,48,17.96,0.86,1.06,82,OP115,Copper,Missing Component,Low,Pass,47,Warning,49,2026-02-13
+I0409,Wi-Fi Module,L2,M3,Evening,55,47,106.21,2.8,1.75,106,OP104,Copper,Short Circuit,Low,Pass,3,Warning,32,2026-02-14
+I0410,Relay Module,L1,M1,Morning,52,50,228.44,1.73,0.79,120,OP111,Ceramic,Solder Bridge,Low,Fail,24,Warning,42,2026-02-15
+I0411,Camera Module,L1,M5,Evening,35,53,205.09,3.38,2.47,80,OP118,Ceramic,Misalignment,Low,Fail,40,Warning,81,2026-02-16
+I0412,Wi-Fi Module,L1,M4,Night,55,59,11.28,3.19,1.32,93,OP122,FR4,Misalignment,Medium,Fail,33,Warning,16,2026-02-17
+I0413,Camera Module,L1,M5,Evening,54,41,148.41,1.31,1.02,120,OP101,FR4,Misalignment,Low,Fail,12,Good,79,2026-02-18
+I0414,LED Driver,L1,M4,Evening,46,45,227.86,4.26,2.54,142,OP108,Ceramic,Missing Component,Low,Fail,27,Good,79,2026-02-19
+I0415,PCB,L4,M2,Morning,39,42,88.82,3.92,3.52,126,OP117,Copper,Missing Component,Medium,Fail,31,Good,27,2026-02-20
+I0416,Wi-Fi Module,L4,M5,Night,40,56,173.17,4.36,3.33,103,OP123,Aluminum,Loose Connection,Low,Fail,38,Good,17,2026-02-21
+I0417,Power Supply Unit,L4,M4,Evening,42,52,196.12,1.86,1.27,105,OP109,Copper,Loose Connection,Medium,Fail,40,Warning,10,2026-02-22
+I0418,Wi-Fi Module,L1,M5,Night,54,49,21.38,0.75,0.8,114,OP123,Ceramic,Open Circuit,High,Fail,34,Good,49,2026-02-23
+I0419,Sensor Module,L1,M3,Evening,55,50,138.8,4.43,4.07,83,OP121,Ceramic,Misalignment,Low,Fail,27,Critical,96,2026-02-24
+I0420,Power Supply Unit,L2,M5,Night,37,40,195.13,3.26,4.08,100,OP118,Ceramic,Short Circuit,Low,Fail,44,Warning,88,2026-02-25
+I0421,Camera Module,L1,M5,Morning,44,65,182.29,2.9,3.96,137,OP113,FR4,Loose Connection,Medium,Pass,30,Good,83,2026-02-26
+I0422,LED Driver,L4,M1,Morning,54,44,199.42,0.99,2.33,103,OP123,Copper,Open Circuit,Medium,Fail,3,Warning,12,2026-02-27
+I0423,Camera Module,L4,M2,Morning,44,54,63.8,3.16,1.11,117,OP117,Copper,Short Circuit,High,Pass,22,Warning,25,2026-02-28
+I0424,Battery Pack,L1,M1,Morning,55,52,140.37,0.74,0.9,90,OP105,FR4,Short Circuit,High,Pass,55,Critical,71,2026-03-01
+I0425,Camera Module,L4,M1,Morning,37,53,128.63,4.9,2.62,111,OP111,Aluminum,Solder Bridge,High,Fail,51,Warning,86,2026-03-02
+I0426,Power Supply Unit,L1,M5,Evening,42,59,103.71,2.63,2.0,122,OP113,Aluminum,Misalignment,Low,Fail,42,Good,97,2026-03-03
+I0427,Relay Module,L1,M3,Evening,52,46,97.59,4.19,4.49,140,OP101,Ceramic,Open Circuit,Medium,Fail,29,Warning,94,2026-03-04
+I0428,Wi-Fi Module,L1,M3,Night,52,63,132.38,3.49,2.69,92,OP113,FR4,Burn Mark,High,Pass,10,Good,64,2026-03-05
+I0429,PCB,L4,M2,Morning,37,58,48.3,2.92,0.9,120,OP123,FR4,Solder Bridge,High,Fail,42,Critical,97,2026-03-06
+I0430,Wi-Fi Module,L2,M2,Night,36,62,113.92,4.37,2.39,116,OP107,FR4,Open Circuit,Medium,Fail,27,Good,62,2026-03-07
+I0431,Sensor Module,L3,M1,Evening,51,47,93.45,4.22,1.31,136,OP129,FR4,PCB Crack,Low,Pass,4,Critical,68,2026-03-08
+I0432,Microcontroller Board,L2,M2,Evening,46,49,48.76,4.42,1.49,103,OP130,FR4,Burn Mark,Low,Pass,6,Critical,89,2026-03-09
+I0433,Battery Pack,L3,M4,Morning,42,41,168.39,0.36,3.15,84,OP118,FR4,Open Circuit,Medium,Fail,5,Critical,26,2026-03-10
+I0434,PCB,L2,M5,Evening,51,50,181.81,4.31,1.25,95,OP103,Ceramic,Missing Component,High,Pass,19,Critical,40,2026-03-11
+I0435,Sensor Module,L4,M5,Night,36,56,113.75,3.63,2.24,129,OP124,Copper,PCB Crack,Low,Fail,2,Good,64,2026-03-12
+I0436,PCB,L4,M5,Evening,40,42,181.65,4.44,3.58,112,OP104,Ceramic,Solder Bridge,Low,Pass,1,Critical,41,2026-03-13
+I0437,Microcontroller Board,L2,M4,Morning,49,48,30.07,3.16,1.14,135,OP119,Copper,Burn Mark,Low,Fail,54,Good,88,2026-03-14
+I0438,Battery Pack,L3,M4,Morning,47,49,135.93,3.79,1.68,85,OP102,Copper,Misalignment,Medium,Pass,9,Critical,77,2026-03-15
+I0439,LED Driver,L4,M1,Evening,48,55,40.72,3.79,1.44,112,OP115,Aluminum,Open Circuit,Low,Fail,36,Critical,42,2026-03-16
+I0440,Power Supply Unit,L3,M1,Morning,55,43,103.48,1.34,1.44,128,OP110,Copper,Misalignment,Low,Pass,12,Critical,78,2026-03-17
+I0441,Microcontroller Board,L3,M3,Night,47,49,65.13,2.71,3.07,109,OP104,Ceramic,Missing Component,High,Pass,23,Good,81,2026-03-18
+I0442,Camera Module,L4,M1,Evening,49,45,152.89,4.67,0.92,107,OP111,Copper,PCB Crack,Low,Pass,10,Warning,55,2026-03-19
+I0443,PCB,L4,M5,Morning,39,52,32.57,2.42,2.54,146,OP109,Ceramic,Missing Component,Medium,Pass,26,Warning,30,2026-03-20
+I0444,Wi-Fi Module,L2,M2,Evening,37,43,31.73,3.97,3.96,104,OP103,Aluminum,Short Circuit,Low,Fail,50,Warning,50,2026-03-21
+I0445,Camera Module,L3,M2,Evening,38,44,112.8,2.88,1.06,150,OP107,FR4,Misalignment,Low,Fail,4,Warning,85,2026-03-22
+I0446,LED Driver,L1,M1,Morning,46,49,131.74,4.2,2.92,117,OP122,Ceramic,Burn Mark,Low,Pass,15,Good,49,2026-03-23
+I0447,Microcontroller Board,L3,M1,Night,40,63,153.33,4.84,4.25,91,OP112,FR4,Short Circuit,Low,Fail,4,Warning,22,2026-03-24
+I0448,Battery Pack,L1,M2,Evening,36,42,22.79,3.72,2.05,94,OP106,Aluminum,Loose Connection,Medium,Fail,21,Critical,40,2026-03-25
+I0449,Camera Module,L3,M5,Night,52,46,174.96,0.28,1.42,118,OP110,Aluminum,Loose Connection,Low,Pass,44,Critical,40,2026-03-26
+I0450,Power Supply Unit,L2,M1,Night,42,51,77.5,3.83,2.6,118,OP114,Copper,Short Circuit,Medium,Fail,13,Warning,31,2026-03-27
+I0451,Power Supply Unit,L2,M2,Evening,38,56,121.6,4.59,2.6,110,OP115,Ceramic,Loose Connection,Medium,Pass,28,Good,98,2026-03-28
+I0452,Display Unit,L4,M4,Morning,42,42,191.81,4.85,1.46,96,OP111,Copper,Burn Mark,High,Pass,43,Critical,47,2026-03-29
+I0453,LED Driver,L4,M2,Morning,41,56,16.13,0.21,0.55,126,OP112,Aluminum,Short Circuit,Low,Fail,10,Critical,19,2026-03-30
+I0454,Battery Pack,L1,M4,Evening,39,55,145.22,1.35,3.98,128,OP104,Ceramic,Loose Connection,Low,Fail,27,Critical,91,2026-03-31
+I0455,Sensor Module,L4,M2,Evening,38,45,38.12,1.43,2.57,131,OP107,Ceramic,Short Circuit,Medium,Pass,32,Critical,43,2026-04-01
+I0456,Display Unit,L4,M4,Night,36,45,115.55,3.25,2.75,89,OP124,Copper,Solder Bridge,Low,Fail,13,Good,48,2026-04-02
+I0457,Battery Pack,L3,M4,Night,39,58,152.18,3.29,0.59,131,OP112,Copper,Solder Bridge,Low,Fail,31,Good,18,2026-04-03
+I0458,Power Supply Unit,L3,M1,Night,50,64,152.5,2.32,3.12,106,OP112,Aluminum,Missing Component,Medium,Pass,54,Warning,38,2026-04-04
+I0459,Relay Module,L4,M3,Night,50,42,120.13,3.7,3.23,133,OP124,Aluminum,Missing Component,Low,Pass,33,Good,65,2026-04-05
+I0460,Microcontroller Board,L3,M5,Morning,47,47,153.77,4.65,4.16,130,OP112,Copper,PCB Crack,Medium,Fail,57,Good,18,2026-04-06
+I0461,Display Unit,L2,M4,Evening,37,48,218.78,4.56,3.31,134,OP116,FR4,Open Circuit,Low,Fail,2,Warning,32,2026-04-07
+I0462,Microcontroller Board,L4,M1,Morning,49,40,20.9,3.85,2.62,115,OP125,FR4,Solder Bridge,Low,Pass,13,Critical,28,2026-04-08
+I0463,LED Driver,L4,M5,Evening,46,57,189.42,2.67,3.97,139,OP101,Copper,Open Circuit,High,Fail,24,Good,28,2026-04-09
+I0464,Power Supply Unit,L2,M3,Evening,55,56,114.85,0.83,3.35,97,OP114,FR4,Missing Component,Low,Pass,26,Warning,11,2026-04-10
+I0465,Microcontroller Board,L2,M2,Evening,41,64,40.53,0.84,3.2,98,OP112,FR4,Loose Connection,Low,Fail,48,Critical,75,2026-04-11
+I0466,LED Driver,L3,M4,Morning,37,58,219.71,0.63,0.62,149,OP101,Ceramic,Solder Bridge,Low,Pass,25,Warning,23,2026-04-12
+I0467,Sensor Module,L3,M2,Night,42,53,54.38,3.06,2.29,86,OP125,Ceramic,Loose Connection,Medium,Pass,18,Critical,13,2026-04-13
+I0468,LED Driver,L1,M1,Night,49,44,192.02,2.96,3.9,95,OP107,Ceramic,Solder Bridge,High,Fail,46,Critical,48,2026-04-14
+I0469,Battery Pack,L2,M3,Evening,39,55,175.84,0.42,1.39,106,OP117,FR4,Misalignment,Low,Pass,39,Critical,48,2026-04-15
+I0470,LED Driver,L2,M2,Morning,53,56,225.59,4.02,3.75,130,OP109,FR4,Missing Component,Low,Fail,23,Critical,96,2026-04-16
+I0471,PCB,L2,M5,Night,52,40,145.37,2.35,2.46,116,OP125,Ceramic,Burn Mark,Low,Fail,7,Warning,70,2026-04-17
+I0472,Sensor Module,L1,M3,Evening,49,65,223.5,1.18,3.42,103,OP104,Aluminum,Missing Component,Medium,Pass,32,Good,23,2026-04-18
+I0473,Battery Pack,L1,M5,Night,54,53,14.53,0.92,0.66,144,OP123,Aluminum,Short Circuit,Low,Pass,9,Good,99,2026-04-19
+I0474,Battery Pack,L1,M3,Evening,54,59,62.27,4.44,2.19,116,OP117,Aluminum,Misalignment,Low,Fail,24,Good,81,2026-04-20
+I0475,Relay Module,L3,M4,Evening,43,64,19.89,0.27,4.31,148,OP109,Aluminum,Solder Bridge,High,Pass,50,Good,55,2026-04-21
+I0476,Battery Pack,L3,M1,Evening,45,60,81.9,0.97,2.37,109,OP126,FR4,Misalignment,High,Pass,38,Good,51,2026-04-22
+I0477,PCB,L3,M3,Morning,43,54,69.37,2.29,0.71,103,OP121,Copper,Short Circuit,Low,Pass,41,Warning,92,2026-04-23
+I0478,Sensor Module,L1,M1,Morning,39,54,5.69,2.25,3.23,86,OP110,Aluminum,PCB Crack,Medium,Pass,5,Critical,47,2026-04-24
+I0479,Sensor Module,L1,M5,Morning,49,41,107.2,3.73,0.87,109,OP109,Copper,Short Circuit,Low,Pass,21,Good,99,2026-04-25
+I0480,Battery Pack,L3,M5,Morning,40,41,212.22,4.7,2.77,90,OP104,Ceramic,Misalignment,Low,Fail,7,Critical,44,2026-04-26
+I0481,Wi-Fi Module,L2,M4,Night,39,50,202.33,1.78,2.52,114,OP121,Copper,Short Circuit,Low,Fail,43,Critical,14,2026-04-27
+I0482,Power Supply Unit,L2,M2,Night,52,41,145.34,4.62,4.4,107,OP113,FR4,Loose Connection,High,Fail,57,Critical,25,2026-04-28
+I0483,Microcontroller Board,L3,M3,Morning,46,65,146.73,1.78,0.51,119,OP106,FR4,Solder Bridge,High,Fail,9,Critical,18,2026-04-29
+I0484,Microcontroller Board,L4,M2,Evening,46,40,205.4,3.28,2.86,116,OP104,Aluminum,Missing Component,Low,Fail,36,Critical,90,2026-04-30
+I0485,Camera Module,L1,M4,Morning,48,45,3.98,0.58,4.29,138,OP130,Copper,Solder Bridge,Medium,Fail,59,Warning,94,2026-05-01
+I0486,Camera Module,L1,M5,Evening,55,51,153.93,0.62,2.5,144,OP122,FR4,Misalignment,Low,Pass,7,Good,78,2026-05-02
+I0487,Sensor Module,L3,M4,Evening,37,56,152.86,0.91,2.26,148,OP113,FR4,Burn Mark,Low,Pass,33,Warning,27,2026-05-03
+I0488,Sensor Module,L4,M4,Morning,39,59,175.46,1.71,2.12,130,OP110,Copper,Misalignment,Medium,Fail,30,Critical,32,2026-05-04
+I0489,Microcontroller Board,L3,M5,Night,52,48,46.65,4.74,2.57,138,OP112,FR4,PCB Crack,Medium,Fail,32,Good,77,2026-05-05
+I0490,Battery Pack,L2,M5,Morning,38,50,102.4,0.78,2.88,117,OP118,Copper,Short Circuit,Low,Fail,51,Critical,79,2026-05-06
+I0491,Sensor Module,L4,M3,Night,46,61,26.98,3.52,4.02,124,OP130,Aluminum,Short Circuit,Medium,Fail,60,Good,22,2026-05-07
+I0492,LED Driver,L1,M4,Morning,36,61,196.54,0.52,1.88,93,OP125,Copper,Open Circuit,Medium,Fail,6,Critical,76,2026-05-08
+I0493,Display Unit,L3,M4,Morning,47,49,152.59,4.92,0.68,113,OP107,Copper,Short Circuit,Low,Fail,27,Good,32,2026-05-09
+I0494,Microcontroller Board,L2,M5,Night,50,58,125.13,2.15,1.07,117,OP103,FR4,Short Circuit,High,Fail,43,Warning,39,2026-05-10
+I0495,Display Unit,L4,M4,Morning,44,59,29.55,1.46,1.65,96,OP101,FR4,Solder Bridge,High,Fail,24,Critical,26,2026-05-11
+I0496,Wi-Fi Module,L2,M2,Night,54,54,91.48,1.26,3.69,82,OP108,Ceramic,Open Circuit,Medium,Fail,17,Warning,10,2026-05-12
+I0497,Camera Module,L3,M2,Night,41,48,40.71,2.75,0.53,133,OP129,Aluminum,Solder Bridge,Medium,Fail,58,Good,67,2026-05-13
+I0498,LED Driver,L1,M1,Night,53,65,26.25,1.68,4.19,141,OP108,Copper,Open Circuit,Low,Pass,28,Critical,63,2026-05-14
+I0499,Relay Module,L4,M1,Evening,54,41,160.25,2.73,2.25,97,OP113,FR4,Loose Connection,High,Fail,51,Critical,90,2026-05-15
+I0500,Camera Module,L3,M4,Night,42,65,12.02,4.78,3.88,91,OP127,Ceramic,PCB Crack,Medium,Pass,24,Critical,20,2026-05-16
+I0501,Camera Module,L2,M4,Night,43,59,26.87,0.32,2.39,97,OP115,Copper,Open Circuit,Medium,Pass,34,Good,40,2026-05-17
+I0502,Camera Module,L1,M5,Night,49,41,124.8,0.66,3.24,97,OP116,FR4,Misalignment,Low,Pass,8,Warning,98,2026-05-18
+I0503,Power Supply Unit,L1,M2,Evening,41,53,99.08,4.31,2.98,88,OP112,Copper,PCB Crack,High,Pass,26,Warning,94,2026-05-19
+I0504,Display Unit,L1,M1,Night,50,41,104.04,2.86,1.8,131,OP119,Ceramic,Open Circuit,Medium,Pass,7,Critical,44,2026-05-20
+I0505,Camera Module,L2,M5,Night,39,50,160.58,1.94,1.26,148,OP109,Copper,PCB Crack,Low,Fail,38,Warning,64,2026-05-21
+I0506,Power Supply Unit,L3,M4,Morning,42,47,216.41,2.38,3.28,125,OP127,FR4,Solder Bridge,Low,Pass,34,Warning,45,2026-05-22
+I0507,PCB,L3,M5,Night,35,63,61.31,3.05,4.1,99,OP111,Ceramic,Missing Component,Low,Fail,59,Critical,42,2026-05-23
+I0508,Wi-Fi Module,L3,M3,Morning,36,45,36.96,0.86,4.27,82,OP128,Aluminum,Short Circuit,High,Pass,29,Warning,63,2026-05-24
+I0509,Wi-Fi Module,L4,M2,Night,38,44,80.97,2.21,2.99,104,OP119,Aluminum,PCB Crack,Low,Fail,48,Warning,91,2026-05-25
+I0510,Display Unit,L2,M1,Evening,52,48,182.35,2.5,2.46,101,OP116,FR4,Misalignment,Low,Fail,53,Warning,10,2026-05-26
+I0511,Relay Module,L1,M2,Evening,43,42,101.25,2.52,2.26,115,OP123,Copper,Burn Mark,Low,Pass,53,Critical,84,2026-05-27
+I0512,Battery Pack,L1,M1,Night,35,45,23.35,4.74,2.33,122,OP111,Copper,Short Circuit,Low,Pass,47,Critical,95,2026-05-28
+I0513,PCB,L1,M4,Evening,48,56,126.34,1.22,1.29,113,OP118,Copper,Misalignment,Medium,Pass,6,Warning,33,2026-05-29
+I0514,Relay Module,L2,M1,Evening,43,65,84.94,4.96,1.88,111,OP124,Ceramic,PCB Crack,Low,Pass,12,Warning,93,2026-05-30
+I0515,Display Unit,L4,M5,Night,50,47,184.85,3.15,4.5,96,OP103,Copper,Misalignment,High,Fail,32,Warning,92,2026-05-31
+I0516,Battery Pack,L4,M3,Night,39,50,50.89,1.87,1.72,107,OP114,Aluminum,Short Circuit,Medium,Pass,11,Critical,29,2026-06-01
+I0517,PCB,L1,M2,Night,39,58,145.22,3.8,0.86,93,OP119,Ceramic,Loose Connection,Low,Pass,41,Good,27,2026-06-02
+I0518,LED Driver,L4,M3,Night,40,65,65.26,2.87,0.68,90,OP122,FR4,Misalignment,Medium,Fail,13,Good,63,2026-06-03
+I0519,PCB,L2,M1,Evening,48,55,105.45,0.24,2.69,123,OP116,Copper,PCB Crack,Medium,Pass,59,Good,26,2026-06-04
+I0520,Microcontroller Board,L3,M2,Morning,46,64,209.78,3.92,3.67,140,OP121,FR4,Misalignment,High,Fail,37,Critical,38,2026-06-05
+I0521,Microcontroller Board,L2,M2,Night,50,51,78.24,3.33,3.5,95,OP128,Copper,Missing Component,Low,Pass,9,Good,43,2026-06-06
+I0522,Power Supply Unit,L1,M3,Evening,44,55,173.26,3.04,1.17,120,OP102,FR4,Burn Mark,Low,Fail,11,Critical,95,2026-06-07
+I0523,Relay Module,L1,M3,Morning,39,46,21.42,3.19,3.11,102,OP123,Ceramic,Loose Connection,Medium,Fail,48,Warning,59,2026-06-08
+I0524,PCB,L3,M3,Night,49,42,84.76,2.85,4.47,147,OP124,Copper,Burn Mark,Low,Fail,51,Good,92,2026-06-09
+I0525,LED Driver,L2,M1,Evening,51,46,227.13,1.56,0.99,95,OP104,FR4,Open Circuit,Low,Fail,57,Warning,58,2026-06-10
+I0526,PCB,L3,M4,Evening,41,53,101.63,3.06,3.77,132,OP129,Aluminum,Burn Mark,High,Pass,50,Critical,51,2026-06-11
+I0527,Microcontroller Board,L2,M1,Night,38,41,213.61,4.35,1.93,132,OP108,Ceramic,Open Circuit,Medium,Fail,16,Good,98,2026-06-12
+I0528,Power Supply Unit,L2,M1,Evening,36,61,109.45,0.66,1.93,121,OP130,Copper,Solder Bridge,High,Pass,2,Warning,46,2026-06-13
+I0529,Wi-Fi Module,L4,M2,Night,42,45,146.74,3.47,1.54,145,OP125,Aluminum,Burn Mark,High,Fail,26,Good,13,2026-06-14
+I0530,PCB,L2,M3,Night,54,64,70.26,3.72,2.07,94,OP118,Aluminum,Missing Component,Low,Pass,8,Good,53,2026-06-15
+I0531,Power Supply Unit,L2,M5,Morning,54,49,136.23,3.15,4.17,119,OP117,Copper,Short Circuit,Low,Fail,18,Critical,50,2026-06-16
+I0532,Sensor Module,L2,M1,Night,36,58,80.46,1.31,1.89,122,OP122,FR4,Short Circuit,Medium,Fail,28,Good,38,2026-06-17
+I0533,LED Driver,L4,M1,Evening,39,63,101.53,0.53,1.08,94,OP120,Ceramic,Short Circuit,Low,Fail,24,Critical,51,2026-06-18
+I0534,Microcontroller Board,L4,M2,Night,45,42,146.75,2.22,3.65,114,OP123,FR4,Missing Component,Low,Pass,4,Good,70,2026-06-19
+I0535,Microcontroller Board,L2,M5,Night,41,61,141.15,4.41,2.2,115,OP112,Aluminum,Missing Component,Medium,Fail,5,Warning,75,2026-06-20
+I0536,Sensor Module,L1,M5,Night,43,55,101.69,4.54,3.49,81,OP117,FR4,Burn Mark,Medium,Fail,29,Warning,54,2026-06-21
+I0537,Power Supply Unit,L4,M1,Morning,48,45,19.52,0.45,4.46,135,OP118,FR4,Short Circuit,Low,Fail,58,Warning,99,2026-06-22
+I0538,Relay Module,L2,M4,Evening,35,52,196.23,2.7,0.77,120,OP129,Ceramic,Short Circuit,Low,Pass,3,Critical,73,2026-06-23
+I0539,Power Supply Unit,L3,M2,Evening,37,51,110.95,0.76,1.73,89,OP129,Ceramic,Open Circuit,High,Fail,14,Critical,25,2026-06-24
+I0540,LED Driver,L2,M5,Evening,53,59,8.48,4.37,0.51,84,OP111,FR4,Short Circuit,Low,Fail,41,Good,40,2026-06-25
+I0541,Microcontroller Board,L2,M3,Morning,47,57,59.35,4.3,1.9,92,OP130,Aluminum,Loose Connection,Medium,Pass,43,Good,63,2026-06-26
+I0542,Battery Pack,L4,M2,Morning,51,59,111.0,2.8,3.61,126,OP125,FR4,Burn Mark,Medium,Fail,9,Warning,42,2026-06-27
+I0543,Battery Pack,L4,M5,Night,36,48,90.66,2.68,0.62,131,OP128,FR4,Misalignment,Low,Pass,51,Critical,94,2026-06-28
+I0544,Relay Module,L4,M4,Night,55,45,36.77,0.26,1.97,102,OP115,Copper,Missing Component,High,Pass,48,Critical,25,2026-06-29
+I0545,Camera Module,L4,M5,Evening,36,65,52.69,1.81,3.38,148,OP114,Ceramic,Short Circuit,Low,Pass,50,Critical,85,2026-06-30
+I0546,Relay Module,L1,M2,Night,54,64,218.28,4.3,2.74,114,OP108,FR4,PCB Crack,Low,Fail,57,Good,96,2026-07-01
+I0547,Power Supply Unit,L2,M4,Evening,51,43,197.01,3.24,3.81,111,OP113,Copper,Burn Mark,High,Pass,45,Critical,36,2026-07-02
+I0548,Sensor Module,L4,M3,Evening,39,45,178.86,3.29,1.34,135,OP122,Aluminum,Missing Component,Low,Fail,28,Warning,24,2026-07-03
+I0549,Relay Module,L1,M3,Evening,51,61,7.71,2.36,0.82,138,OP122,Ceramic,Missing Component,Low,Fail,44,Warning,34,2026-07-04
+I0550,Power Supply Unit,L2,M4,Night,51,59,153.15,2.2,4.27,91,OP121,FR4,Burn Mark,Low,Pass,58,Critical,34,2026-07-05
+I0551,Relay Module,L2,M4,Evening,42,64,192.4,3.15,1.66,145,OP104,Aluminum,Loose Connection,High,Pass,33,Good,18,2026-07-06
+I0552,Sensor Module,L4,M5,Night,51,56,205.83,3.29,4.24,141,OP121,Copper,Short Circuit,Low,Fail,0,Critical,81,2026-07-07
+I0553,LED Driver,L4,M5,Night,35,55,108.35,4.15,3.72,115,OP113,Ceramic,Solder Bridge,Medium,Pass,53,Critical,97,2026-07-08
+I0554,Display Unit,L2,M3,Evening,36,51,27.77,2.9,2.65,131,OP109,Copper,Burn Mark,Low,Fail,54,Critical,27,2026-07-09
+I0555,Battery Pack,L2,M5,Evening,40,40,132.8,2.69,2.04,122,OP125,Copper,Burn Mark,Low,Fail,13,Critical,59,2026-07-10
+I0556,PCB,L2,M2,Evening,50,46,118.73,0.23,2.08,132,OP122,FR4,Open Circuit,Medium,Pass,29,Critical,47,2026-07-11
+I0557,Sensor Module,L4,M2,Evening,36,54,91.4,4.21,2.98,119,OP121,Copper,Open Circuit,Low,Pass,59,Warning,77,2026-07-12
+I0558,PCB,L1,M3,Evening,50,56,47.97,2.86,0.84,103,OP122,Ceramic,Open Circuit,Low,Fail,47,Good,95,2026-07-13
+I0559,PCB,L1,M1,Evening,50,50,200.73,3.41,1.66,127,OP108,Aluminum,Open Circuit,Low,Fail,39,Critical,67,2026-07-14
+I0560,Battery Pack,L3,M4,Night,47,61,104.41,1.33,3.77,133,OP120,Ceramic,Open Circuit,Low,Fail,12,Good,64,2026-07-15
+I0561,Sensor Module,L2,M3,Evening,52,50,204.48,1.62,2.16,107,OP121,Ceramic,Solder Bridge,High,Pass,1,Critical,19,2026-07-16
+I0562,Sensor Module,L2,M2,Night,39,61,19.71,1.19,1.77,109,OP101,Ceramic,Misalignment,High,Pass,10,Good,64,2026-07-17
+I0563,PCB,L2,M5,Night,37,63,215.57,3.66,2.65,90,OP101,Aluminum,Loose Connection,Medium,Pass,52,Critical,19,2026-07-18
+I0564,Display Unit,L3,M3,Evening,54,40,158.09,0.78,1.73,115,OP120,Aluminum,Loose Connection,Low,Fail,3,Good,68,2026-07-19
+I0565,PCB,L2,M5,Morning,54,50,74.44,2.41,3.22,88,OP122,Aluminum,Solder Bridge,Medium,Pass,34,Critical,51,2026-07-20
+I0566,Battery Pack,L1,M5,Night,41,44,171.52,4.49,2.37,116,OP113,Aluminum,Burn Mark,Low,Fail,57,Warning,19,2026-07-21
+I0567,LED Driver,L2,M5,Morning,51,59,208.61,3.8,2.95,89,OP105,Copper,PCB Crack,Low,Fail,21,Critical,73,2026-07-22
+I0568,Power Supply Unit,L3,M2,Night,37,53,54.4,2.91,2.03,125,OP128,FR4,Burn Mark,Low,Fail,48,Good,98,2026-07-23
+I0569,Camera Module,L3,M2,Night,36,53,228.04,4.76,0.74,132,OP118,Aluminum,PCB Crack,High,Pass,56,Critical,43,2026-07-24
+I0570,Relay Module,L3,M2,Night,49,40,149.44,1.77,0.92,132,OP114,Copper,Open Circuit,Low,Fail,23,Good,91,2026-07-25
+I0571,Power Supply Unit,L2,M5,Night,40,45,147.52,3.33,2.82,122,OP129,Aluminum,Misalignment,High,Fail,59,Critical,23,2026-07-26
+I0572,Microcontroller Board,L2,M1,Night,43,59,25.13,2.34,3.97,103,OP102,Copper,Missing Component,Low,Pass,32,Critical,44,2026-07-27
+I0573,Camera Module,L3,M5,Morning,38,54,149.64,0.85,0.8,138,OP111,FR4,Missing Component,High,Pass,29,Warning,41,2026-07-28
+I0574,Power Supply Unit,L3,M5,Evening,43,63,58.93,2.57,3.44,126,OP124,FR4,Missing Component,Medium,Fail,18,Critical,16,2026-07-29
+I0575,Sensor Module,L2,M3,Evening,54,56,27.9,3.4,1.84,135,OP122,Aluminum,Misalignment,Low,Fail,11,Warning,62,2026-07-30
+I0576,Microcontroller Board,L4,M4,Night,54,58,137.73,4.07,3.69,145,OP124,FR4,Solder Bridge,High,Pass,42,Good,52,2026-07-31
+I0577,PCB,L4,M5,Evening,37,45,117.2,2.26,1.33,100,OP102,Ceramic,Missing Component,High,Pass,7,Critical,58,2026-08-01
+I0578,Sensor Module,L4,M4,Evening,51,65,186.83,2.2,1.34,93,OP116,Aluminum,Misalignment,Low,Fail,9,Good,20,2026-08-02
+I0579,Wi-Fi Module,L4,M1,Night,43,64,219.57,0.77,3.43,91,OP104,Ceramic,Solder Bridge,Low,Pass,36,Critical,79,2026-08-03
+I0580,Camera Module,L3,M3,Night,37,64,177.11,2.49,3.73,138,OP122,Copper,PCB Crack,Medium,Pass,55,Good,28,2026-08-04
+I0581,PCB,L2,M4,Morning,39,62,119.96,2.28,2.58,93,OP121,FR4,Short Circuit,Low,Pass,25,Warning,95,2026-08-05
+I0582,Battery Pack,L4,M2,Evening,35,50,162.93,2.38,4.41,91,OP125,Aluminum,PCB Crack,Medium,Pass,28,Warning,36,2026-08-06
+I0583,Camera Module,L4,M5,Night,43,45,184.11,4.83,1.76,83,OP120,Ceramic,Burn Mark,Medium,Fail,19,Good,86,2026-08-07
+I0584,LED Driver,L3,M3,Evening,52,48,178.7,2.86,2.1,94,OP123,Ceramic,PCB Crack,Low,Pass,33,Critical,41,2026-08-08
+I0585,Sensor Module,L4,M1,Evening,47,46,8.24,1.12,0.98,115,OP103,Aluminum,Solder Bridge,Low,Pass,12,Warning,47,2026-08-09
+I0586,Battery Pack,L1,M1,Morning,47,65,27.39,2.63,0.85,134,OP107,Aluminum,Missing Component,Low,Fail,12,Good,52,2026-08-10
+I0587,Relay Module,L1,M3,Night,53,43,221.15,4.63,3.16,133,OP111,Aluminum,Misalignment,High,Pass,26,Good,86,2026-08-11
+I0588,Wi-Fi Module,L4,M5,Night,54,41,157.83,1.04,1.49,143,OP123,FR4,Short Circuit,Low,Pass,7,Good,35,2026-08-12
+I0589,Power Supply Unit,L1,M5,Night,46,58,106.31,4.37,1.15,103,OP104,FR4,Open Circuit,Low,Fail,29,Warning,71,2026-08-13
+I0590,Microcontroller Board,L4,M1,Night,36,56,151.97,0.93,1.23,126,OP107,Ceramic,Loose Connection,Low,Fail,57,Good,47,2026-08-14
+I0591,Camera Module,L3,M5,Morning,52,45,111.98,1.55,1.81,145,OP115,FR4,Burn Mark,Low,Fail,2,Good,95,2026-08-15
+I0592,Display Unit,L4,M5,Night,51,42,42.95,1.45,3.57,141,OP115,FR4,Burn Mark,High,Fail,56,Critical,55,2026-08-16
+I0593,Wi-Fi Module,L2,M3,Evening,52,65,125.5,1.4,2.63,101,OP120,Aluminum,Missing Component,Low,Fail,42,Critical,67,2026-08-17
+I0594,Battery Pack,L3,M4,Night,52,64,156.67,0.49,0.98,117,OP121,Ceramic,PCB Crack,Medium,Pass,53,Warning,94,2026-08-18
+I0595,LED Driver,L3,M4,Evening,35,41,115.65,3.07,3.16,138,OP125,Ceramic,Loose Connection,Low,Fail,38,Warning,41,2026-08-19
+I0596,LED Driver,L1,M2,Night,37,43,147.11,3.16,2.15,147,OP118,Ceramic,Misalignment,Medium,Fail,26,Good,75,2026-08-20
+I0597,LED Driver,L2,M3,Morning,47,58,38.37,3.89,4.16,93,OP103,Aluminum,Short Circuit,Low,Fail,58,Good,86,2026-08-21
+I0598,Microcontroller Board,L1,M5,Evening,36,63,132.81,2.97,4.32,83,OP128,FR4,Short Circuit,High,Fail,47,Critical,40,2026-08-22
+I0599,Sensor Module,L4,M2,Night,48,58,188.67,0.31,3.93,139,OP108,FR4,Burn Mark,Low,Fail,55,Critical,57,2026-08-23
+I0600,Wi-Fi Module,L2,M3,Morning,51,61,222.82,0.71,3.32,149,OP107,Ceramic,Short Circuit,Low,Fail,7,Good,31,2026-08-24
+I0601,LED Driver,L4,M3,Morning,52,58,13.98,4.18,1.33,126,OP106,Ceramic,PCB Crack,High,Pass,48,Warning,19,2026-08-25
+I0602,LED Driver,L1,M4,Evening,38,61,98.66,4.47,0.95,93,OP116,FR4,Solder Bridge,Medium,Fail,23,Good,51,2026-08-26
+I0603,Microcontroller Board,L4,M3,Morning,49,59,13.04,3.22,2.68,87,OP122,Copper,Open Circuit,Medium,Fail,9,Warning,42,2026-08-27
+I0604,Battery Pack,L2,M2,Night,45,52,49.75,0.51,2.5,105,OP119,Aluminum,Burn Mark,Medium,Fail,36,Good,89,2026-08-28
+I0605,Display Unit,L1,M2,Night,43,62,192.0,2.47,2.41,86,OP103,FR4,Burn Mark,Low,Fail,51,Critical,47,2026-08-29
+I0606,LED Driver,L3,M5,Evening,54,51,55.5,4.33,3.9,101,OP101,Aluminum,Short Circuit,Low,Pass,23,Good,10,2026-08-30
+I0607,Display Unit,L3,M4,Morning,44,47,34.78,3.75,2.18,134,OP101,Ceramic,Loose Connection,Low,Fail,27,Good,88,2026-08-31
+I0608,Sensor Module,L1,M2,Morning,43,58,8.24,4.98,0.63,122,OP122,FR4,Misalignment,Low,Pass,20,Good,56,2026-09-01
+I0609,Camera Module,L1,M5,Morning,37,50,20.12,2.32,0.94,95,OP128,FR4,Solder Bridge,Medium,Fail,8,Critical,49,2026-09-02
+I0610,Wi-Fi Module,L1,M5,Evening,39,48,105.7,2.18,0.77,146,OP125,Aluminum,Solder Bridge,Low,Fail,10,Critical,77,2026-09-03
+I0611,LED Driver,L4,M2,Morning,47,58,222.78,2.76,2.01,100,OP114,Aluminum,Missing Component,Medium,Pass,2,Critical,100,2026-09-04
+I0612,PCB,L4,M3,Evening,48,50,37.27,2.19,1.18,85,OP109,FR4,Open Circuit,Medium,Pass,4,Good,67,2026-09-05
+I0613,Sensor Module,L1,M4,Morning,40,49,151.06,0.48,1.52,143,OP105,Copper,Short Circuit,Medium,Pass,8,Critical,67,2026-09-06
+I0614,Power Supply Unit,L2,M5,Night,37,49,15.28,2.64,3.87,111,OP123,Ceramic,Solder Bridge,High,Pass,29,Good,68,2026-09-07
+I0615,Wi-Fi Module,L1,M4,Evening,39,61,146.02,4.77,3.9,99,OP125,FR4,PCB Crack,Medium,Fail,0,Warning,34,2026-09-08
+I0616,Wi-Fi Module,L3,M4,Night,38,61,225.18,1.86,3.73,101,OP123,Ceramic,Solder Bridge,Low,Pass,45,Good,52,2026-09-09
+I0617,Display Unit,L3,M2,Morning,52,57,23.0,3.36,1.2,126,OP116,Copper,Short Circuit,Medium,Pass,58,Warning,87,2026-09-10
+I0618,Microcontroller Board,L3,M1,Morning,54,52,207.95,4.77,4.49,109,OP118,Copper,Solder Bridge,Low,Fail,57,Critical,16,2026-09-11
+I0619,Relay Module,L2,M3,Night,46,53,47.55,3.95,4.24,86,OP116,Aluminum,Open Circuit,High,Pass,37,Good,44,2026-09-12
+I0620,Power Supply Unit,L1,M2,Night,45,48,201.89,4.42,4.44,102,OP109,Copper,Open Circuit,Low,Fail,31,Good,52,2026-09-13
+I0621,Wi-Fi Module,L2,M4,Morning,55,48,118.34,3.01,3.15,127,OP113,Ceramic,Short Circuit,Medium,Pass,46,Good,84,2026-09-14
+I0622,Battery Pack,L3,M2,Night,50,42,99.38,2.85,1.94,102,OP122,Copper,Loose Connection,Low,Pass,60,Good,92,2026-09-15
+I0623,Battery Pack,L2,M1,Morning,37,53,67.83,3.71,2.86,135,OP117,Copper,Loose Connection,High,Fail,31,Warning,40,2026-09-16
+I0624,PCB,L3,M4,Evening,35,53,171.62,3.78,2.21,94,OP120,Aluminum,Open Circuit,Medium,Pass,11,Warning,83,2026-09-17
+I0625,PCB,L2,M2,Morning,51,53,35.93,4.26,4.38,111,OP130,FR4,Open Circuit,Medium,Fail,20,Warning,42,2026-09-18
+I0626,Power Supply Unit,L4,M2,Evening,48,43,67.04,0.76,4.18,109,OP116,FR4,Short Circuit,Low,Fail,14,Good,58,2026-09-19
+I0627,Microcontroller Board,L2,M4,Evening,44,47,48.22,3.23,1.68,91,OP126,FR4,Burn Mark,Medium,Pass,2,Good,74,2026-09-20
+I0628,Battery Pack,L4,M5,Night,53,46,32.79,4.86,1.33,143,OP125,Ceramic,Open Circuit,Medium,Pass,58,Critical,65,2026-09-21
+I0629,PCB,L1,M5,Morning,46,43,88.2,3.22,2.92,115,OP108,Aluminum,Loose Connection,Medium,Pass,6,Critical,31,2026-09-22
+I0630,Wi-Fi Module,L1,M3,Night,37,61,19.4,3.47,3.74,129,OP126,Copper,Short Circuit,Medium,Fail,40,Good,67,2026-09-23
+I0631,Display Unit,L1,M2,Morning,44,50,95.18,2.03,3.92,123,OP121,FR4,Loose Connection,Medium,Fail,14,Warning,19,2026-09-24
+I0632,Power Supply Unit,L2,M3,Night,53,50,198.77,3.02,1.4,85,OP114,Aluminum,Open Circuit,Medium,Pass,40,Good,63,2026-09-25
+I0633,Sensor Module,L1,M3,Evening,40,42,165.04,2.22,0.8,131,OP112,Ceramic,Solder Bridge,Low,Pass,3,Critical,14,2026-09-26
+I0634,Relay Module,L1,M3,Morning,46,50,162.08,0.84,1.42,102,OP115,Aluminum,Burn Mark,Low,Fail,9,Good,37,2026-09-27
+I0635,Camera Module,L1,M4,Night,51,42,19.24,3.32,3.37,116,OP125,Ceramic,Solder Bridge,Medium,Pass,52,Critical,13,2026-09-28
+I0636,Power Supply Unit,L3,M2,Morning,42,54,163.12,3.65,2.97,128,OP111,Ceramic,Solder Bridge,Low,Fail,49,Good,80,2026-09-29
+I0637,PCB,L3,M4,Evening,43,47,201.52,2.35,3.2,143,OP128,Aluminum,Missing Component,Low,Pass,41,Warning,62,2026-09-30
+I0638,Microcontroller Board,L1,M5,Morning,43,60,57.68,1.53,1.92,103,OP126,Copper,Short Circuit,Medium,Fail,2,Critical,68,2026-10-01
+I0639,Sensor Module,L3,M5,Morning,51,55,111.37,4.2,0.75,125,OP124,FR4,Short Circuit,High,Pass,43,Good,38,2026-10-02
+I0640,LED Driver,L4,M4,Night,46,57,227.99,2.92,1.09,111,OP106,Aluminum,Short Circuit,Medium,Pass,51,Good,83,2026-10-03
+I0641,Wi-Fi Module,L4,M1,Morning,54,52,131.4,1.2,3.08,99,OP130,Ceramic,Short Circuit,High,Fail,31,Critical,65,2026-10-04
+I0642,Display Unit,L3,M5,Evening,54,45,117.27,3.74,3.23,86,OP120,Ceramic,Open Circuit,Low,Fail,35,Critical,99,2026-10-05
+I0643,Sensor Module,L3,M1,Evening,35,60,48.88,2.25,2.75,96,OP112,Ceramic,Open Circuit,Low,Fail,46,Good,26,2026-10-06
+I0644,Power Supply Unit,L2,M1,Evening,35,63,124.55,4.54,1.1,111,OP101,Ceramic,Short Circuit,Low,Pass,33,Good,15,2026-10-07
+I0645,Display Unit,L4,M5,Evening,51,60,173.41,1.51,0.94,146,OP116,Aluminum,Misalignment,Low,Fail,13,Warning,41,2026-10-08
+I0646,Camera Module,L1,M4,Morning,45,46,141.46,0.88,1.29,137,OP110,Copper,Solder Bridge,Medium,Pass,8,Critical,74,2026-10-09
+I0647,Power Supply Unit,L2,M1,Night,50,57,87.0,2.4,0.94,120,OP111,Copper,Short Circuit,High,Fail,45,Good,97,2026-10-10
+I0648,Display Unit,L3,M3,Morning,52,42,219.55,1.51,2.7,149,OP127,FR4,PCB Crack,High,Fail,29,Warning,49,2026-10-11
+I0649,Battery Pack,L4,M3,Morning,36,44,84.63,0.7,3.55,108,OP128,Ceramic,Burn Mark,Low,Pass,5,Warning,25,2026-10-12
+I0650,Camera Module,L3,M2,Evening,41,55,147.43,0.73,4.49,138,OP125,Ceramic,Open Circuit,High,Pass,22,Warning,82,2026-10-13
+I0651,PCB,L2,M2,Night,55,56,155.53,3.79,2.8,101,OP123,FR4,Solder Bridge,Low,Pass,13,Good,92,2026-10-14
+I0652,Battery Pack,L2,M3,Evening,52,41,3.93,2.9,4.0,150,OP116,FR4,Missing Component,Low,Pass,28,Critical,20,2026-10-15
+I0653,Relay Module,L4,M1,Morning,44,49,205.05,2.52,3.97,86,OP127,FR4,Misalignment,Medium,Fail,58,Warning,47,2026-10-16
+I0654,PCB,L4,M5,Night,42,42,216.85,2.07,3.08,142,OP118,FR4,Misalignment,Low,Fail,29,Warning,64,2026-10-17
+I0655,PCB,L4,M1,Night,51,45,146.2,3.39,2.56,99,OP101,Ceramic,Open Circuit,Low,Pass,59,Good,70,2026-10-18
+I0656,Camera Module,L4,M1,Evening,46,61,3.74,2.09,4.15,81,OP119,Copper,Solder Bridge,Low,Pass,26,Critical,75,2026-10-19
+I0657,Battery Pack,L4,M5,Night,50,54,111.02,2.21,0.74,139,OP118,Copper,Short Circuit,Low,Fail,9,Critical,65,2026-10-20
+I0658,Sensor Module,L3,M3,Morning,36,45,138.65,1.57,3.75,149,OP114,FR4,PCB Crack,High,Fail,40,Warning,94,2026-10-21
+I0659,Camera Module,L1,M3,Night,41,55,3.61,4.46,0.99,138,OP101,FR4,Open Circuit,Medium,Fail,50,Critical,10,2026-10-22
+I0660,Camera Module,L4,M2,Night,43,59,134.83,3.66,1.65,125,OP104,Ceramic,Missing Component,Medium,Pass,1,Critical,90,2026-10-23
+I0661,Display Unit,L3,M4,Night,36,43,28.23,3.74,1.64,129,OP120,Copper,Solder Bridge,High,Fail,41,Warning,31,2026-10-24
+I0662,Power Supply Unit,L2,M5,Evening,43,52,157.86,2.33,1.99,120,OP118,Copper,Burn Mark,Medium,Fail,39,Critical,15,2026-10-25
+I0663,Camera Module,L1,M1,Morning,38,53,123.42,3.75,2.87,86,OP128,FR4,Missing Component,High,Pass,51,Critical,75,2026-10-26
+I0664,LED Driver,L1,M3,Morning,35,52,153.08,0.39,3.28,147,OP117,Copper,Missing Component,Low,Fail,4,Critical,83,2026-10-27
+I0665,Battery Pack,L3,M4,Night,53,60,93.57,3.04,2.45,140,OP110,FR4,Missing Component,Medium,Fail,8,Critical,32,2026-10-28
+I0666,Microcontroller Board,L1,M1,Morning,51,43,32.96,3.43,1.17,106,OP112,Aluminum,Open Circuit,High,Pass,2,Critical,25,2026-10-29
+I0667,Sensor Module,L2,M2,Morning,49,43,115.99,4.31,3.28,98,OP103,Copper,PCB Crack,Low,Fail,10,Good,58,2026-10-30
+I0668,Microcontroller Board,L4,M3,Evening,41,56,117.4,4.9,3.56,136,OP103,Aluminum,Open Circuit,Low,Fail,4,Critical,51,2026-10-31
+I0669,PCB,L3,M5,Night,51,57,128.52,3.4,2.82,128,OP118,FR4,PCB Crack,Medium,Fail,52,Critical,87,2026-11-01
+I0670,LED Driver,L3,M2,Morning,54,45,25.72,3.36,3.72,98,OP121,FR4,Misalignment,Low,Fail,58,Good,68,2026-11-02
+I0671,Camera Module,L2,M5,Night,43,55,156.11,3.57,2.58,89,OP122,Copper,Burn Mark,High,Pass,6,Good,74,2026-11-03
+I0672,Wi-Fi Module,L3,M2,Evening,39,54,4.07,3.5,1.14,105,OP105,Aluminum,Solder Bridge,Low,Fail,11,Good,48,2026-11-04
+I0673,Power Supply Unit,L3,M1,Evening,53,50,75.58,4.81,1.77,125,OP110,Ceramic,Open Circuit,Medium,Fail,55,Good,69,2026-11-05
+I0674,Relay Module,L1,M1,Evening,41,56,97.27,1.12,3.69,131,OP125,FR4,PCB Crack,Low,Pass,40,Critical,75,2026-11-06
+I0675,Display Unit,L3,M3,Evening,47,64,27.52,4.1,1.72,108,OP102,Aluminum,Solder Bridge,High,Fail,14,Critical,96,2026-11-07
+I0676,Relay Module,L2,M4,Evening,49,50,105.66,2.22,3.44,81,OP105,Aluminum,Solder Bridge,Low,Pass,41,Warning,14,2026-11-08
+I0677,Microcontroller Board,L2,M4,Evening,39,45,101.04,1.66,2.13,127,OP130,Aluminum,Missing Component,Low,Pass,42,Warning,73,2026-11-09
+I0678,Display Unit,L1,M5,Night,45,62,105.8,3.79,2.71,90,OP110,FR4,Loose Connection,High,Fail,36,Warning,11,2026-11-10
+I0679,Sensor Module,L3,M2,Morning,52,54,208.88,1.85,0.63,109,OP103,FR4,Burn Mark,High,Pass,60,Warning,98,2026-11-11
+I0680,Relay Module,L4,M2,Night,43,41,44.63,4.3,4.31,128,OP129,FR4,Solder Bridge,Low,Pass,58,Good,27,2026-11-12
+I0681,Wi-Fi Module,L2,M1,Evening,48,57,80.23,0.75,1.87,111,OP113,Ceramic,Burn Mark,Low,Pass,52,Critical,42,2026-11-13
+I0682,Wi-Fi Module,L3,M2,Evening,51,46,80.89,2.68,2.49,129,OP110,Copper,Misalignment,Low,Pass,34,Good,62,2026-11-14
+I0683,PCB,L2,M3,Evening,40,40,193.79,2.61,2.14,137,OP120,FR4,Missing Component,Low,Pass,34,Critical,47,2026-11-15
+I0684,LED Driver,L2,M2,Evening,54,59,215.1,0.2,2.76,93,OP108,FR4,Burn Mark,Low,Pass,45,Good,53,2026-11-16
+I0685,Battery Pack,L2,M1,Morning,50,52,194.47,0.89,0.8,143,OP107,Copper,Short Circuit,Medium,Pass,57,Warning,63,2026-11-17
+I0686,Sensor Module,L3,M5,Night,52,48,206.01,2.99,3.55,94,OP105,FR4,Loose Connection,Medium,Fail,21,Good,98,2026-11-18
+I0687,Wi-Fi Module,L1,M5,Night,47,43,75.83,3.27,4.08,116,OP106,Ceramic,Missing Component,Low,Fail,41,Good,41,2026-11-19
+I0688,Display Unit,L2,M1,Night,42,45,42.97,4.81,2.15,107,OP123,Copper,PCB Crack,Low,Pass,1,Good,85,2026-11-20
+I0689,Camera Module,L1,M5,Evening,47,47,76.65,2.35,0.99,125,OP124,Aluminum,Misalignment,Medium,Pass,52,Warning,57,2026-11-21
+I0690,LED Driver,L4,M5,Morning,37,54,61.82,4.86,3.19,85,OP112,FR4,Burn Mark,High,Pass,45,Warning,72,2026-11-22
+I0691,LED Driver,L4,M4,Evening,50,42,56.09,0.95,1.03,87,OP120,FR4,Short Circuit,Medium,Fail,50,Warning,47,2026-11-23
+I0692,Power Supply Unit,L2,M3,Evening,41,40,190.61,4.37,3.97,138,OP102,Ceramic,Solder Bridge,High,Pass,24,Critical,49,2026-11-24
+I0693,PCB,L1,M2,Evening,46,48,77.35,1.64,3.1,120,OP128,FR4,Short Circuit,Medium,Fail,27,Warning,91,2026-11-25
+I0694,Battery Pack,L1,M2,Evening,55,40,172.41,1.04,2.62,140,OP106,FR4,Open Circuit,Medium,Pass,12,Warning,58,2026-11-26
+I0695,PCB,L3,M1,Night,37,64,98.34,2.62,2.4,147,OP109,Ceramic,Loose Connection,Low,Pass,44,Good,56,2026-11-27
+I0696,Battery Pack,L2,M3,Morning,45,64,134.84,3.75,1.29,119,OP129,Ceramic,Open Circuit,Low,Pass,59,Warning,16,2026-11-28
+I0697,Power Supply Unit,L1,M3,Night,44,59,14.77,4.59,2.48,84,OP120,Copper,Burn Mark,Low,Fail,48,Good,26,2026-11-29
+I0698,Battery Pack,L4,M5,Night,46,62,29.34,4.81,2.52,101,OP125,FR4,Missing Component,Low,Fail,0,Good,56,2026-11-30
+I0699,LED Driver,L4,M1,Night,48,58,18.96,3.38,3.4,112,OP118,Copper,PCB Crack,Low,Pass,3,Critical,40,2026-12-01
+I0700,LED Driver,L1,M4,Evening,46,46,204.68,4.93,2.19,82,OP115,Aluminum,Open Circuit,Low,Pass,22,Good,75,2026-12-02
+I0701,PCB,L2,M3,Morning,52,56,105.64,0.76,1.46,109,OP116,Ceramic,Short Circuit,Medium,Pass,14,Warning,90,2026-12-03
+I0702,Wi-Fi Module,L1,M4,Evening,52,52,112.25,2.48,3.69,149,OP104,Copper,Burn Mark,Low,Pass,54,Good,19,2026-12-04
+I0703,PCB,L3,M2,Morning,44,65,75.62,3.99,2.22,107,OP126,Ceramic,Missing Component,Low,Pass,23,Warning,51,2026-12-05
+I0704,Display Unit,L1,M4,Night,49,47,23.59,1.67,3.65,124,OP113,Copper,Solder Bridge,Medium,Pass,5,Good,19,2026-12-06
+I0705,Sensor Module,L4,M4,Night,46,61,118.33,4.43,2.15,147,OP116,FR4,Burn Mark,High,Pass,37,Good,26,2026-12-07
+I0706,Camera Module,L4,M4,Evening,41,58,116.08,0.26,1.21,100,OP113,FR4,Loose Connection,Low,Fail,14,Critical,85,2026-12-08
+I0707,Battery Pack,L1,M3,Night,37,52,215.96,2.61,0.93,133,OP122,Aluminum,Open Circuit,Low,Pass,48,Critical,32,2026-12-09
+I0708,Battery Pack,L1,M4,Morning,35,53,131.52,2.19,1.96,138,OP119,Copper,Misalignment,Low,Pass,43,Critical,88,2026-12-10
+I0709,Battery Pack,L2,M1,Night,51,61,185.25,1.93,3.65,95,OP123,FR4,Solder Bridge,Medium,Pass,37,Good,22,2026-12-11
+I0710,Display Unit,L2,M1,Night,50,53,44.25,2.74,0.92,129,OP128,Copper,Loose Connection,Medium,Pass,39,Warning,94,2026-12-12
+I0711,PCB,L1,M4,Evening,39,61,33.96,3.19,3.75,91,OP110,Aluminum,PCB Crack,Medium,Pass,58,Critical,48,2026-12-13
+I0712,Wi-Fi Module,L1,M1,Night,50,55,74.9,3.63,0.55,122,OP129,Ceramic,Solder Bridge,High,Fail,57,Critical,28,2026-12-14
+I0713,Battery Pack,L1,M3,Evening,45,63,204.38,2.97,2.91,120,OP130,Copper,Solder Bridge,Low,Fail,53,Good,99,2026-12-15
+I0714,Relay Module,L1,M2,Evening,43,47,163.81,1.42,1.92,146,OP122,Aluminum,Loose Connection,Low,Pass,12,Good,32,2026-12-16
+I0715,Wi-Fi Module,L4,M1,Evening,51,60,30.05,3.43,1.37,116,OP125,Copper,Open Circuit,Medium,Pass,31,Good,79,2026-12-17
+I0716,Camera Module,L2,M2,Evening,50,43,130.0,2.84,0.81,139,OP112,Copper,Loose Connection,Low,Fail,60,Warning,20,2026-12-18
+I0717,LED Driver,L1,M3,Evening,41,52,205.68,2.42,1.22,96,OP116,Ceramic,Missing Component,Low,Fail,23,Warning,45,2026-12-19
+I0718,Camera Module,L2,M1,Night,54,49,32.96,1.58,2.06,135,OP110,Ceramic,PCB Crack,Low,Fail,57,Warning,46,2026-12-20
+I0719,LED Driver,L4,M5,Night,37,60,153.49,4.81,3.19,106,OP125,Copper,Short Circuit,Low,Pass,51,Warning,34,2026-12-21
+I0720,Wi-Fi Module,L3,M4,Evening,44,44,126.59,0.39,2.54,147,OP106,Ceramic,PCB Crack,High,Pass,28,Good,18,2026-12-22
+I0721,Microcontroller Board,L2,M4,Morning,47,42,137.37,3.26,1.75,150,OP102,Ceramic,Missing Component,Low,Pass,22,Warning,30,2026-12-23
+I0722,LED Driver,L2,M2,Morning,39,43,60.54,2.1,4.17,87,OP120,Copper,Short Circuit,Low,Fail,13,Good,54,2026-12-24
+I0723,Wi-Fi Module,L4,M2,Night,50,52,61.04,3.46,2.75,92,OP114,Aluminum,PCB Crack,Medium,Fail,53,Good,84,2026-12-25
+I0724,Wi-Fi Module,L2,M5,Morning,38,46,132.81,1.78,2.4,101,OP115,Aluminum,Solder Bridge,Low,Fail,55,Good,29,2026-12-26
+I0725,Battery Pack,L4,M4,Night,54,60,220.5,3.81,1.22,111,OP111,FR4,PCB Crack,Low,Pass,11,Good,49,2026-12-27
+I0726,Power Supply Unit,L4,M2,Night,47,50,186.46,3.08,1.18,97,OP126,FR4,PCB Crack,Medium,Pass,19,Good,85,2026-12-28
+I0727,Camera Module,L3,M2,Morning,45,58,9.33,1.79,3.99,92,OP103,Aluminum,Missing Component,Low,Fail,42,Good,23,2026-12-29
+I0728,Power Supply Unit,L4,M3,Evening,36,59,104.44,4.28,1.85,104,OP128,Aluminum,Open Circuit,High,Pass,42,Warning,89,2026-12-30
+I0729,Camera Module,L2,M2,Night,42,61,75.99,0.83,1.81,132,OP130,Ceramic,Open Circuit,Low,Pass,9,Critical,89,2026-12-31
+I0730,LED Driver,L3,M5,Morning,42,40,225.26,2.51,2.64,138,OP127,FR4,Loose Connection,High,Fail,12,Good,53,2027-01-01
+I0731,Camera Module,L3,M4,Evening,37,59,43.69,3.19,3.18,122,OP105,FR4,Missing Component,Low,Pass,35,Good,64,2027-01-02
+I0732,Sensor Module,L4,M4,Evening,42,45,46.39,1.69,3.79,108,OP106,FR4,PCB Crack,Low,Pass,58,Good,30,2027-01-03
+I0733,Power Supply Unit,L2,M2,Night,37,60,92.67,1.1,2.32,130,OP105,FR4,Missing Component,Low,Fail,37,Critical,87,2027-01-04
+I0734,PCB,L2,M1,Evening,37,55,222.46,4.47,1.15,82,OP112,Ceramic,Solder Bridge,Low,Pass,17,Good,23,2027-01-05
+I0735,Power Supply Unit,L2,M1,Evening,35,63,16.35,3.75,0.71,89,OP127,Copper,Misalignment,High,Pass,56,Critical,24,2027-01-06
+I0736,Battery Pack,L1,M2,Morning,45,65,128.71,4.74,4.27,120,OP119,Aluminum,Missing Component,Low,Pass,28,Good,95,2027-01-07
+I0737,LED Driver,L1,M5,Morning,43,55,36.74,2.6,3.5,120,OP120,FR4,Open Circuit,High,Pass,18,Warning,40,2027-01-08
+I0738,Sensor Module,L4,M2,Morning,50,49,211.41,3.99,1.66,128,OP121,Aluminum,Burn Mark,Low,Pass,50,Warning,42,2027-01-09
+I0739,Microcontroller Board,L2,M5,Evening,53,58,135.34,1.7,0.7,111,OP129,FR4,Loose Connection,Low,Fail,20,Critical,48,2027-01-10
+I0740,Wi-Fi Module,L1,M2,Evening,49,63,82.25,2.46,0.64,150,OP109,Aluminum,PCB Crack,Low,Pass,52,Warning,26,2027-01-11
+I0741,Wi-Fi Module,L4,M1,Night,53,44,76.64,3.31,1.62,122,OP111,Aluminum,Short Circuit,Low,Fail,42,Warning,55,2027-01-12
+I0742,Camera Module,L2,M3,Night,48,53,189.81,4.25,3.76,149,OP110,Aluminum,Burn Mark,Medium,Pass,58,Warning,27,2027-01-13
+I0743,Sensor Module,L1,M3,Evening,51,52,198.8,1.9,2.67,129,OP109,FR4,Short Circuit,High,Pass,12,Critical,67,2027-01-14
+I0744,Power Supply Unit,L2,M1,Evening,40,41,203.68,2.15,2.26,149,OP117,FR4,Open Circuit,Low,Pass,35,Critical,96,2027-01-15
+I0745,LED Driver,L3,M5,Morning,49,43,54.09,1.56,2.73,112,OP113,Copper,Misalignment,High,Fail,13,Warning,38,2027-01-16
+I0746,LED Driver,L3,M4,Morning,54,56,40.94,2.66,3.92,87,OP105,Aluminum,Misalignment,Low,Fail,28,Good,52,2027-01-17
+I0747,Wi-Fi Module,L4,M3,Evening,46,64,131.29,0.89,4.4,88,OP104,Aluminum,Misalignment,Medium,Fail,55,Critical,61,2027-01-18
+I0748,Wi-Fi Module,L2,M2,Evening,46,60,96.32,0.69,1.49,110,OP126,Ceramic,Open Circuit,Medium,Fail,50,Good,86,2027-01-19
+I0749,Relay Module,L3,M3,Evening,49,53,223.37,0.84,2.72,136,OP127,Aluminum,Misalignment,Low,Fail,49,Warning,64,2027-01-20
+I0750,Battery Pack,L4,M4,Evening,43,52,208.19,0.6,3.07,113,OP103,Ceramic,Short Circuit,Medium,Pass,22,Critical,53,2027-01-21
+I0751,Microcontroller Board,L1,M4,Night,47,48,148.4,2.27,2.42,109,OP125,Aluminum,Loose Connection,Low,Fail,2,Critical,85,2027-01-22
+I0752,Relay Module,L1,M2,Night,40,44,10.35,0.45,2.64,136,OP126,Aluminum,Open Circuit,Low,Pass,2,Good,92,2027-01-23
+I0753,Power Supply Unit,L4,M4,Morning,54,45,63.62,2.1,1.12,105,OP113,Ceramic,PCB Crack,Low,Pass,36,Good,62,2027-01-24
+I0754,Power Supply Unit,L3,M3,Evening,39,56,124.33,0.46,0.53,105,OP113,Ceramic,Open Circuit,Low,Fail,20,Warning,57,2027-01-25
+I0755,Sensor Module,L4,M5,Night,50,40,36.19,0.75,1.71,140,OP110,Aluminum,Missing Component,High,Pass,19,Critical,71,2027-01-26
+I0756,Camera Module,L4,M5,Night,54,50,34.57,0.33,3.2,140,OP122,Aluminum,PCB Crack,Medium,Fail,11,Critical,28,2027-01-27
+I0757,LED Driver,L2,M5,Night,42,43,222.37,3.17,0.75,101,OP125,Copper,Open Circuit,Medium,Fail,36,Good,76,2027-01-28
+I0758,Microcontroller Board,L3,M4,Night,38,64,20.24,3.04,2.34,148,OP117,Copper,Loose Connection,High,Fail,16,Warning,52,2027-01-29
+I0759,Camera Module,L2,M4,Night,41,53,52.33,0.98,2.0,144,OP101,Ceramic,Short Circuit,Low,Pass,38,Critical,13,2027-01-30
+I0760,Camera Module,L4,M2,Night,55,51,222.28,1.03,3.38,103,OP119,Aluminum,Solder Bridge,Low,Pass,58,Critical,25,2027-01-31
+I0761,Camera Module,L1,M2,Morning,47,59,203.52,2.0,1.85,122,OP122,Copper,Solder Bridge,Low,Pass,0,Critical,94,2027-02-01
+I0762,Relay Module,L2,M5,Night,46,58,17.27,3.69,1.41,98,OP115,Ceramic,Burn Mark,Medium,Fail,45,Warning,34,2027-02-02
+I0763,Wi-Fi Module,L3,M4,Morning,49,41,157.3,4.54,1.86,129,OP101,Aluminum,PCB Crack,Medium,Fail,25,Good,65,2027-02-03
+I0764,LED Driver,L3,M5,Morning,37,65,13.98,0.47,1.77,142,OP122,Ceramic,Misalignment,Low,Pass,35,Good,23,2027-02-04
+I0765,Camera Module,L2,M5,Morning,36,62,74.33,1.33,1.3,102,OP117,Ceramic,Solder Bridge,Low,Pass,37,Warning,28,2027-02-05
+I0766,LED Driver,L2,M1,Morning,45,50,32.31,0.71,1.29,98,OP124,Copper,Short Circuit,High,Fail,17,Good,83,2027-02-06
+I0767,Microcontroller Board,L3,M3,Night,55,51,168.16,4.51,2.52,134,OP130,Copper,Solder Bridge,Low,Pass,46,Good,53,2027-02-07
+I0768,Power Supply Unit,L2,M4,Night,38,52,66.15,0.42,4.46,84,OP110,Copper,PCB Crack,Low,Pass,25,Critical,28,2027-02-08
+I0769,Wi-Fi Module,L1,M3,Evening,42,55,119.83,1.91,3.22,103,OP115,Aluminum,PCB Crack,High,Pass,5,Warning,43,2027-02-09
+I0770,Power Supply Unit,L3,M5,Evening,37,60,79.21,2.43,3.36,112,OP102,Ceramic,Loose Connection,Low,Fail,39,Good,70,2027-02-10
+I0771,Relay Module,L1,M5,Night,35,41,71.74,1.25,3.91,90,OP126,Copper,Missing Component,Medium,Fail,42,Good,87,2027-02-11
+I0772,Sensor Module,L4,M1,Morning,45,48,6.28,2.41,3.52,149,OP109,Aluminum,Loose Connection,Low,Fail,59,Good,57,2027-02-12
+I0773,Wi-Fi Module,L1,M1,Evening,45,63,195.2,0.74,0.93,127,OP110,FR4,PCB Crack,High,Pass,9,Warning,78,2027-02-13
+I0774,Power Supply Unit,L3,M4,Morning,38,47,176.05,3.04,3.28,139,OP116,FR4,Loose Connection,High,Pass,4,Warning,24,2027-02-14
+I0775,Sensor Module,L3,M5,Night,53,63,167.6,1.26,2.22,118,OP126,Ceramic,Solder Bridge,Low,Fail,36,Warning,84,2027-02-15
+I0776,Camera Module,L4,M2,Morning,41,61,154.54,1.97,2.27,99,OP122,Aluminum,Loose Connection,Medium,Fail,27,Critical,90,2027-02-16
+I0777,Sensor Module,L4,M5,Night,39,57,212.59,2.53,3.29,96,OP117,Ceramic,Burn Mark,Medium,Pass,3,Warning,45,2027-02-17
+I0778,Relay Module,L1,M4,Evening,38,41,115.26,1.12,1.02,112,OP109,Ceramic,Solder Bridge,Low,Pass,16,Good,96,2027-02-18
+I0779,Wi-Fi Module,L1,M5,Morning,50,49,15.23,3.24,2.87,121,OP117,Ceramic,Open Circuit,Low,Pass,50,Warning,71,2027-02-19
+I0780,PCB,L1,M3,Evening,47,44,7.57,3.51,2.34,122,OP130,Aluminum,Misalignment,Medium,Fail,41,Critical,89,2027-02-20
+I0781,Display Unit,L3,M5,Evening,46,43,226.53,3.94,3.75,112,OP121,Aluminum,Burn Mark,High,Pass,43,Good,97,2027-02-21
+I0782,Microcontroller Board,L4,M2,Evening,49,41,45.58,1.46,0.95,134,OP128,Copper,Open Circuit,Medium,Fail,45,Warning,33,2027-02-22
+I0783,Display Unit,L3,M5,Evening,55,61,97.93,1.17,4.05,123,OP130,Ceramic,Loose Connection,Low,Pass,39,Critical,17,2027-02-23
+I0784,PCB,L3,M2,Evening,52,48,154.68,2.12,1.93,90,OP116,FR4,Burn Mark,Medium,Pass,29,Critical,43,2027-02-24
+I0785,Wi-Fi Module,L1,M3,Morning,41,46,51.68,3.21,3.06,93,OP103,Aluminum,Solder Bridge,Medium,Pass,28,Good,93,2027-02-25
+I0786,Relay Module,L4,M3,Evening,50,57,37.26,2.75,1.5,113,OP110,Copper,Burn Mark,Medium,Fail,11,Good,54,2027-02-26
+I0787,Battery Pack,L3,M4,Evening,45,44,92.41,0.92,0.76,124,OP106,Ceramic,Short Circuit,Low,Pass,11,Critical,23,2027-02-27
+I0788,Wi-Fi Module,L3,M1,Evening,55,47,96.77,3.83,2.48,106,OP130,Copper,Misalignment,Medium,Pass,23,Good,20,2027-02-28
+I0789,Relay Module,L4,M4,Morning,45,61,181.61,1.93,3.56,89,OP109,Aluminum,PCB Crack,Low,Fail,24,Critical,80,2027-03-01
+I0790,Display Unit,L4,M3,Night,46,49,170.27,4.14,3.0,131,OP120,Ceramic,Short Circuit,Medium,Fail,49,Good,64,2027-03-02
+I0791,Battery Pack,L4,M5,Night,49,43,27.42,2.54,3.42,81,OP117,Copper,PCB Crack,Low,Pass,49,Warning,51,2027-03-03
+I0792,Wi-Fi Module,L1,M5,Night,40,41,130.89,3.32,4.05,128,OP112,Copper,Burn Mark,Low,Fail,26,Warning,12,2027-03-04
+I0793,PCB,L4,M5,Morning,55,48,38.18,2.01,0.68,107,OP114,Ceramic,Loose Connection,Low,Fail,55,Critical,68,2027-03-05
+I0794,PCB,L3,M2,Evening,46,47,168.16,2.82,4.23,107,OP126,FR4,Missing Component,High,Pass,44,Good,41,2027-03-06
+I0795,Sensor Module,L2,M1,Evening,54,49,39.83,2.14,2.25,122,OP106,Ceramic,Misalignment,High,Fail,48,Warning,61,2027-03-07
+I0796,Power Supply Unit,L2,M2,Morning,36,58,104.51,4.02,1.21,85,OP122,FR4,Short Circuit,Medium,Pass,0,Good,95,2027-03-08
+I0797,LED Driver,L2,M5,Morning,45,43,219.85,2.17,1.4,148,OP113,Aluminum,Burn Mark,Low,Fail,25,Good,36,2027-03-09
+I0798,Wi-Fi Module,L4,M2,Morning,52,50,228.69,0.38,3.07,110,OP114,Ceramic,Misalignment,Medium,Fail,22,Warning,95,2027-03-10
+I0799,Battery Pack,L2,M4,Evening,46,41,85.69,0.27,3.79,101,OP116,Copper,Burn Mark,Low,Fail,7,Warning,66,2027-03-11
+I0800,Battery Pack,L3,M3,Night,45,61,228.32,1.92,1.92,101,OP107,Ceramic,Solder Bridge,Low,Pass,60,Warning,59,2027-03-12
+I0801,Display Unit,L4,M3,Morning,42,48,140.03,4.72,0.81,134,OP115,Ceramic,Misalignment,Low,Pass,28,Critical,21,2027-03-13
+I0802,Display Unit,L4,M2,Evening,50,55,31.95,3.14,1.21,103,OP125,FR4,Solder Bridge,High,Fail,12,Good,61,2027-03-14
+I0803,Camera Module,L4,M1,Evening,52,50,219.45,1.91,0.58,84,OP103,FR4,Burn Mark,Low,Pass,13,Warning,28,2027-03-15
+I0804,Camera Module,L4,M2,Night,49,53,16.69,0.27,4.28,108,OP123,FR4,Short Circuit,High,Pass,15,Warning,62,2027-03-16
+I0805,Power Supply Unit,L4,M3,Night,50,52,34.98,1.13,1.94,90,OP116,Ceramic,Burn Mark,Low,Pass,35,Critical,29,2027-03-17
+I0806,Sensor Module,L3,M2,Evening,35,64,59.88,3.34,3.63,146,OP118,Aluminum,Missing Component,Medium,Fail,12,Critical,77,2027-03-18
+I0807,Relay Module,L1,M4,Night,35,46,224.59,1.13,2.12,104,OP105,Copper,Misalignment,Low,Fail,0,Critical,25,2027-03-19
+I0808,Display Unit,L1,M3,Morning,53,54,211.71,2.82,1.25,99,OP114,Copper,Solder Bridge,Low,Pass,52,Critical,31,2027-03-20
+I0809,PCB,L1,M5,Evening,49,61,110.18,2.1,4.04,134,OP106,Copper,PCB Crack,Low,Fail,57,Critical,70,2027-03-21
+I0810,Battery Pack,L2,M1,Morning,45,51,33.0,4.8,1.12,117,OP108,Aluminum,Solder Bridge,Low,Pass,33,Good,42,2027-03-22
+I0811,LED Driver,L3,M2,Night,36,57,150.06,2.78,3.53,112,OP127,FR4,Misalignment,Medium,Pass,21,Critical,45,2027-03-23
+I0812,Battery Pack,L3,M5,Morning,42,44,114.16,0.86,2.68,117,OP119,Ceramic,Burn Mark,Medium,Pass,59,Warning,98,2027-03-24
+I0813,Power Supply Unit,L2,M3,Morning,39,57,117.29,1.92,3.48,144,OP103,Aluminum,Solder Bridge,Low,Pass,14,Critical,79,2027-03-25
+I0814,PCB,L2,M4,Night,50,54,107.11,4.58,2.0,108,OP101,Aluminum,Solder Bridge,Low,Fail,34,Good,70,2027-03-26
+I0815,Relay Module,L1,M5,Evening,46,57,182.83,0.46,2.97,86,OP113,Ceramic,Loose Connection,Medium,Fail,30,Critical,85,2027-03-27
+I0816,Display Unit,L4,M3,Night,46,51,87.22,0.92,3.39,98,OP128,FR4,PCB Crack,Low,Fail,31,Critical,42,2027-03-28
+I0817,Camera Module,L3,M5,Morning,35,48,131.55,0.68,3.37,125,OP111,FR4,PCB Crack,High,Fail,53,Warning,86,2027-03-29
+I0818,Wi-Fi Module,L4,M2,Night,55,41,157.8,0.7,3.26,90,OP109,Copper,Missing Component,High,Fail,29,Critical,67,2027-03-30
+I0819,Camera Module,L2,M1,Evening,52,56,191.92,3.32,1.17,113,OP117,Aluminum,Short Circuit,Medium,Pass,2,Good,96,2027-03-31
+I0820,LED Driver,L2,M2,Evening,55,45,49.58,2.96,1.57,80,OP123,Ceramic,Missing Component,Low,Pass,30,Critical,67,2027-04-01
+I0821,Relay Module,L3,M4,Evening,41,63,60.41,3.26,3.06,131,OP125,Ceramic,Loose Connection,Low,Fail,9,Good,38,2027-04-02
+I0822,Display Unit,L4,M5,Evening,55,57,18.7,4.51,0.55,125,OP106,Copper,PCB Crack,Medium,Pass,46,Critical,86,2027-04-03
+I0823,Display Unit,L2,M1,Night,47,54,202.09,4.18,2.6,140,OP121,Copper,Solder Bridge,Medium,Pass,43,Warning,20,2027-04-04
+I0824,Power Supply Unit,L3,M3,Evening,44,47,164.57,1.51,2.84,111,OP108,Ceramic,Solder Bridge,Low,Pass,20,Critical,98,2027-04-05
+I0825,Battery Pack,L1,M5,Morning,41,43,104.44,0.9,1.26,138,OP108,Aluminum,Burn Mark,High,Pass,16,Warning,79,2027-04-06
+I0826,Camera Module,L2,M3,Evening,39,51,19.01,0.93,3.23,125,OP116,FR4,Burn Mark,Low,Fail,28,Warning,24,2027-04-07
+I0827,Relay Module,L1,M5,Morning,40,43,4.81,0.79,0.67,95,OP130,Ceramic,Loose Connection,High,Fail,30,Critical,50,2027-04-08
+I0828,Wi-Fi Module,L4,M1,Morning,54,52,97.56,4.73,3.33,118,OP124,Ceramic,Open Circuit,Low,Pass,32,Critical,39,2027-04-09
+I0829,PCB,L4,M3,Morning,46,56,188.36,3.84,3.75,92,OP110,Copper,Loose Connection,High,Fail,3,Warning,10,2027-04-10
+I0830,Battery Pack,L1,M1,Evening,44,55,54.08,1.39,1.21,146,OP114,FR4,Loose Connection,Low,Pass,32,Critical,18,2027-04-11
+I0831,Power Supply Unit,L3,M1,Evening,35,45,9.05,0.63,1.75,102,OP122,Ceramic,Short Circuit,High,Pass,22,Critical,37,2027-04-12
+I0832,Battery Pack,L2,M1,Night,53,41,183.0,2.72,4.43,92,OP103,Copper,Loose Connection,Low,Fail,43,Critical,63,2027-04-13
+I0833,LED Driver,L1,M5,Morning,43,53,98.19,4.56,2.91,139,OP113,FR4,Missing Component,Low,Pass,49,Warning,12,2027-04-14
+I0834,LED Driver,L1,M4,Morning,55,58,145.12,2.76,1.47,140,OP107,Ceramic,Short Circuit,Low,Pass,5,Good,69,2027-04-15
+I0835,Relay Module,L4,M4,Morning,55,47,18.92,3.95,4.2,148,OP120,FR4,Solder Bridge,Low,Pass,53,Warning,80,2027-04-16
+I0836,Microcontroller Board,L1,M4,Morning,51,45,41.43,3.78,1.5,109,OP112,FR4,Short Circuit,Medium,Fail,51,Good,41,2027-04-17
+I0837,Relay Module,L2,M5,Morning,39,42,126.4,1.67,2.85,100,OP123,Ceramic,PCB Crack,Medium,Fail,25,Critical,55,2027-04-18
+I0838,Sensor Module,L2,M2,Evening,40,56,128.61,3.82,0.97,102,OP107,FR4,Solder Bridge,Low,Pass,5,Critical,22,2027-04-19
+I0839,Display Unit,L2,M4,Night,45,51,177.06,1.31,0.53,82,OP119,FR4,PCB Crack,Low,Pass,4,Warning,54,2027-04-20
+I0840,Sensor Module,L2,M3,Morning,50,55,81.74,3.23,1.98,90,OP125,Copper,Missing Component,Low,Pass,51,Warning,81,2027-04-21
+I0841,Wi-Fi Module,L1,M4,Morning,42,57,184.25,1.49,1.3,90,OP126,Copper,Missing Component,Medium,Fail,48,Warning,56,2027-04-22
+I0842,Display Unit,L1,M3,Morning,36,54,134.27,3.0,2.98,90,OP129,Copper,Missing Component,Low,Fail,8,Critical,13,2027-04-23
+I0843,PCB,L1,M5,Morning,46,55,185.55,0.37,1.96,117,OP110,Copper,Loose Connection,High,Pass,12,Warning,32,2027-04-24
+I0844,Wi-Fi Module,L1,M1,Evening,49,44,32.02,0.4,1.13,85,OP127,Ceramic,Burn Mark,Low,Fail,55,Critical,22,2027-04-25
+I0845,Camera Module,L3,M1,Evening,55,47,7.61,1.28,3.2,126,OP103,Ceramic,Open Circuit,Medium,Pass,18,Warning,58,2027-04-26
+I0846,Sensor Module,L2,M2,Evening,44,54,79.29,0.43,4.32,101,OP126,Aluminum,Burn Mark,Low,Fail,45,Critical,70,2027-04-27
+I0847,Microcontroller Board,L2,M5,Night,46,40,27.42,2.14,2.32,126,OP118,Ceramic,Open Circuit,Low,Pass,20,Warning,65,2027-04-28
+I0848,Microcontroller Board,L3,M3,Evening,54,52,158.82,2.37,2.95,87,OP104,Aluminum,Solder Bridge,Low,Pass,30,Warning,56,2027-04-29
+I0849,Power Supply Unit,L1,M1,Morning,46,46,41.08,2.63,0.7,127,OP123,Copper,Open Circuit,Low,Fail,33,Good,71,2027-04-30
+I0850,Camera Module,L3,M5,Morning,53,64,52.81,2.75,4.28,138,OP118,FR4,Open Circuit,Low,Pass,26,Good,84,2027-05-01
+I0851,Relay Module,L1,M4,Morning,40,44,10.62,2.8,4.22,126,OP123,Copper,Solder Bridge,Medium,Fail,5,Warning,70,2027-05-02
+I0852,Display Unit,L2,M1,Evening,39,61,165.12,0.85,3.8,123,OP117,Aluminum,Short Circuit,High,Pass,24,Good,87,2027-05-03
+I0853,Display Unit,L3,M3,Night,53,46,56.57,0.99,1.67,131,OP115,Copper,Solder Bridge,Medium,Pass,15,Warning,66,2027-05-04
+I0854,Relay Module,L3,M2,Evening,46,62,6.29,3.1,2.04,85,OP102,Copper,Missing Component,Low,Pass,10,Good,59,2027-05-05
+I0855,Display Unit,L4,M4,Night,51,62,62.18,2.89,2.12,147,OP116,Aluminum,Burn Mark,Low,Pass,25,Warning,51,2027-05-06
+I0856,PCB,L2,M1,Night,38,45,150.72,1.63,1.65,131,OP117,FR4,PCB Crack,Low,Pass,50,Warning,13,2027-05-07
+I0857,PCB,L2,M3,Morning,54,55,150.73,0.29,1.03,109,OP114,Copper,Misalignment,Medium,Pass,28,Critical,81,2027-05-08
+I0858,Battery Pack,L2,M5,Night,47,48,116.59,2.77,1.66,136,OP109,FR4,Open Circuit,High,Pass,10,Critical,10,2027-05-09
+I0859,Sensor Module,L2,M4,Night,52,53,25.61,3.39,1.6,123,OP120,FR4,Misalignment,Medium,Pass,27,Warning,81,2027-05-10
+I0860,Wi-Fi Module,L2,M1,Evening,35,64,73.44,4.19,1.21,115,OP107,Aluminum,Solder Bridge,High,Fail,27,Warning,19,2027-05-11
+I0861,Battery Pack,L3,M5,Morning,46,63,17.69,1.65,2.27,98,OP110,FR4,PCB Crack,Medium,Fail,19,Critical,34,2027-05-12
+I0862,Wi-Fi Module,L2,M4,Evening,45,57,81.75,0.76,1.38,132,OP104,Copper,Open Circuit,Low,Pass,41,Good,77,2027-05-13
+I0863,Power Supply Unit,L3,M5,Night,42,48,61.57,4.78,1.76,118,OP104,Copper,Burn Mark,Low,Fail,2,Good,100,2027-05-14
+I0864,Display Unit,L3,M5,Night,38,40,92.67,4.09,1.52,110,OP115,Ceramic,Solder Bridge,Medium,Pass,1,Warning,48,2027-05-15
+I0865,Battery Pack,L1,M1,Night,54,59,219.52,4.16,0.69,81,OP124,Aluminum,Open Circuit,Medium,Fail,39,Critical,45,2027-05-16
+I0866,Camera Module,L2,M1,Night,36,56,81.86,0.76,4.2,120,OP107,Copper,Missing Component,Low,Pass,19,Critical,14,2027-05-17
+I0867,Display Unit,L1,M2,Evening,49,56,153.85,3.84,2.5,135,OP107,Aluminum,Misalignment,High,Fail,11,Warning,31,2027-05-18
+I0868,Wi-Fi Module,L2,M5,Morning,46,46,148.42,0.65,0.99,81,OP123,FR4,Loose Connection,Low,Fail,23,Good,52,2027-05-19
+I0869,Microcontroller Board,L3,M3,Morning,44,46,168.54,3.97,0.89,119,OP112,Copper,Short Circuit,Low,Fail,16,Good,72,2027-05-20
+I0870,LED Driver,L4,M2,Morning,47,53,36.54,4.51,1.69,130,OP123,Aluminum,PCB Crack,Low,Fail,60,Warning,73,2027-05-21
+I0871,PCB,L1,M4,Night,54,62,219.18,4.71,3.24,120,OP118,Aluminum,Missing Component,High,Pass,51,Good,49,2027-05-22
+I0872,Sensor Module,L3,M1,Evening,44,43,170.2,4.97,4.44,126,OP114,Ceramic,Missing Component,Low,Fail,30,Warning,57,2027-05-23
+I0873,LED Driver,L2,M5,Morning,47,50,82.5,1.56,2.38,95,OP105,FR4,Burn Mark,Medium,Fail,42,Good,32,2027-05-24
+I0874,Microcontroller Board,L1,M2,Night,35,48,222.42,0.91,1.82,136,OP111,Aluminum,PCB Crack,Low,Fail,11,Warning,41,2027-05-25
+I0875,LED Driver,L3,M1,Morning,53,55,199.25,2.34,2.53,139,OP118,FR4,Misalignment,Low,Fail,16,Critical,99,2027-05-26
+I0876,Display Unit,L4,M3,Evening,42,50,202.29,3.01,3.97,121,OP123,Copper,Solder Bridge,Low,Fail,39,Critical,37,2027-05-27
+I0877,PCB,L2,M5,Night,41,47,33.7,4.23,3.31,141,OP130,Copper,Short Circuit,Medium,Pass,33,Critical,64,2027-05-28
+I0878,Sensor Module,L4,M4,Evening,45,51,176.98,2.14,4.24,119,OP105,FR4,Short Circuit,Medium,Fail,8,Good,33,2027-05-29
+I0879,Relay Module,L4,M2,Morning,51,53,115.8,3.34,1.56,96,OP119,Copper,PCB Crack,High,Fail,24,Good,83,2027-05-30
+I0880,Wi-Fi Module,L4,M3,Morning,46,53,201.37,4.74,2.03,89,OP119,Copper,Solder Bridge,Low,Pass,3,Warning,59,2027-05-31
+I0881,Microcontroller Board,L4,M2,Morning,50,56,84.84,4.61,3.35,90,OP111,Ceramic,Missing Component,Low,Fail,16,Critical,26,2027-06-01
+I0882,Relay Module,L2,M2,Evening,43,52,83.74,4.01,2.6,128,OP127,FR4,Open Circuit,High,Pass,19,Warning,20,2027-06-02
+I0883,PCB,L3,M4,Night,41,41,222.57,1.04,2.4,142,OP112,Ceramic,Misalignment,Low,Fail,17,Warning,95,2027-06-03
+I0884,Power Supply Unit,L3,M4,Night,41,43,85.47,1.98,1.15,135,OP120,FR4,Missing Component,Low,Pass,60,Good,26,2027-06-04
+I0885,Power Supply Unit,L4,M2,Night,51,63,148.61,1.33,2.22,138,OP106,Ceramic,Loose Connection,Low,Fail,9,Warning,29,2027-06-05
+I0886,LED Driver,L3,M3,Night,43,44,98.02,2.29,3.32,146,OP103,Aluminum,PCB Crack,High,Pass,42,Critical,33,2027-06-06
+I0887,Relay Module,L1,M2,Night,43,52,99.54,1.82,1.87,144,OP122,FR4,Solder Bridge,Low,Pass,33,Critical,62,2027-06-07
+I0888,Camera Module,L4,M3,Evening,43,45,16.68,2.32,1.88,116,OP119,FR4,Burn Mark,High,Pass,12,Critical,53,2027-06-08
+I0889,Camera Module,L2,M1,Morning,41,45,222.61,4.98,4.37,149,OP111,FR4,Misalignment,Medium,Pass,41,Critical,44,2027-06-09
+I0890,Power Supply Unit,L3,M2,Morning,40,53,17.84,3.63,1.65,87,OP123,Copper,Missing Component,High,Pass,3,Good,92,2027-06-10
+I0891,Microcontroller Board,L4,M2,Night,54,59,205.61,4.8,3.7,126,OP105,Copper,Missing Component,Medium,Fail,8,Good,29,2027-06-11
+I0892,Camera Module,L2,M4,Morning,48,59,135.52,3.31,4.05,144,OP121,FR4,Misalignment,Low,Fail,2,Good,23,2027-06-12
+I0893,LED Driver,L4,M5,Evening,40,49,184.69,2.26,3.3,109,OP124,Aluminum,Missing Component,Low,Fail,58,Warning,100,2027-06-13
+I0894,Display Unit,L1,M1,Evening,53,54,112.56,2.61,2.01,111,OP116,Aluminum,Solder Bridge,Low,Fail,40,Critical,44,2027-06-14
+I0895,PCB,L2,M3,Morning,37,62,94.22,3.59,0.63,85,OP130,Copper,Solder Bridge,Low,Fail,22,Warning,38,2027-06-15
+I0896,LED Driver,L3,M1,Morning,44,40,99.35,3.73,3.36,94,OP120,FR4,PCB Crack,Medium,Fail,30,Critical,51,2027-06-16
+I0897,Sensor Module,L4,M1,Morning,46,48,111.24,2.98,3.57,88,OP116,Aluminum,Misalignment,Low,Fail,4,Good,23,2027-06-17
+I0898,LED Driver,L3,M3,Morning,54,58,41.83,2.7,2.27,85,OP118,FR4,Solder Bridge,Medium,Pass,9,Warning,13,2027-06-18
+I0899,Camera Module,L4,M1,Morning,46,60,215.94,3.33,0.89,105,OP125,Aluminum,Open Circuit,High,Pass,13,Critical,18,2027-06-19
+I0900,Sensor Module,L2,M3,Night,45,55,83.97,2.78,1.74,144,OP107,Aluminum,Misalignment,High,Fail,35,Good,90,2027-06-20
+I0901,PCB,L3,M2,Morning,43,46,165.65,1.36,0.69,80,OP103,Copper,Open Circuit,Medium,Pass,40,Critical,24,2027-06-21
+I0902,PCB,L1,M3,Morning,36,61,197.73,2.3,4.04,106,OP120,Ceramic,Short Circuit,Low,Pass,22,Warning,29,2027-06-22
+I0903,LED Driver,L3,M2,Evening,38,46,80.23,1.0,3.75,118,OP124,Copper,PCB Crack,High,Fail,25,Warning,55,2027-06-23
+I0904,Sensor Module,L1,M5,Morning,42,40,32.21,1.22,4.06,107,OP125,Ceramic,Misalignment,Medium,Fail,45,Good,76,2027-06-24
+I0905,Wi-Fi Module,L2,M5,Morning,51,44,66.52,1.62,3.85,102,OP129,Copper,Open Circuit,Medium,Fail,35,Warning,19,2027-06-25
+I0906,Wi-Fi Module,L1,M4,Morning,37,50,142.47,2.2,3.61,123,OP125,FR4,Open Circuit,Low,Fail,30,Critical,40,2027-06-26
+I0907,PCB,L2,M3,Night,49,56,36.08,2.94,1.56,147,OP105,Ceramic,PCB Crack,Medium,Pass,14,Good,36,2027-06-27
+I0908,LED Driver,L4,M5,Night,35,61,161.86,1.81,2.3,87,OP120,FR4,Misalignment,Low,Pass,13,Warning,14,2027-06-28
+I0909,Battery Pack,L4,M5,Night,43,60,61.7,0.48,2.27,80,OP106,Aluminum,Loose Connection,Low,Pass,41,Critical,78,2027-06-29
+I0910,Power Supply Unit,L4,M3,Evening,40,55,32.27,4.24,4.45,134,OP117,Ceramic,Missing Component,Low,Pass,5,Good,78,2027-06-30
+I0911,Relay Module,L4,M4,Morning,53,63,165.5,4.58,4.03,90,OP128,Ceramic,Open Circuit,Low,Pass,23,Warning,56,2027-07-01
+I0912,Battery Pack,L1,M4,Evening,48,60,35.64,4.39,1.92,88,OP101,Copper,Open Circuit,Low,Fail,57,Warning,32,2027-07-02
+I0913,Wi-Fi Module,L2,M4,Night,36,59,117.67,0.52,1.25,110,OP106,Aluminum,Solder Bridge,Medium,Fail,16,Good,19,2027-07-03
+I0914,Relay Module,L1,M1,Evening,37,65,228.97,3.2,0.5,116,OP121,FR4,Burn Mark,High,Fail,11,Warning,15,2027-07-04
+I0915,Camera Module,L2,M4,Evening,48,51,170.44,0.66,0.65,83,OP122,Copper,Burn Mark,High,Pass,15,Critical,46,2027-07-05
+I0916,Battery Pack,L4,M2,Night,35,42,124.94,3.56,4.38,146,OP128,Copper,Solder Bridge,Low,Pass,53,Warning,78,2027-07-06
+I0917,Power Supply Unit,L2,M3,Night,40,46,58.68,1.8,3.07,84,OP122,Ceramic,PCB Crack,Low,Fail,44,Critical,95,2027-07-07
+I0918,Display Unit,L3,M2,Morning,39,53,213.93,0.5,1.42,105,OP112,Aluminum,Misalignment,High,Fail,42,Critical,100,2027-07-08
+I0919,PCB,L3,M4,Evening,37,41,209.94,4.35,1.05,124,OP103,Copper,Misalignment,Low,Pass,10,Good,67,2027-07-09
+I0920,Camera Module,L4,M4,Night,40,41,135.75,0.59,4.09,146,OP130,Ceramic,Misalignment,High,Pass,5,Warning,21,2027-07-10
+I0921,Display Unit,L3,M4,Evening,47,63,86.78,1.41,3.4,103,OP129,Aluminum,Short Circuit,Low,Fail,41,Good,44,2027-07-11
+I0922,PCB,L1,M3,Morning,52,65,191.7,3.11,4.2,111,OP127,FR4,Short Circuit,Low,Pass,40,Warning,71,2027-07-12
+I0923,Display Unit,L3,M1,Morning,47,51,119.01,3.76,3.17,146,OP121,Copper,PCB Crack,Low,Pass,50,Warning,99,2027-07-13
+I0924,Relay Module,L1,M5,Morning,53,50,34.91,4.85,1.38,126,OP101,Ceramic,Missing Component,Medium,Pass,59,Good,92,2027-07-14
+I0925,PCB,L1,M5,Morning,38,59,35.93,2.13,3.3,88,OP126,FR4,Solder Bridge,Low,Pass,14,Critical,22,2027-07-15
+I0926,Camera Module,L2,M5,Morning,52,61,162.92,2.57,4.33,102,OP124,Copper,Short Circuit,Low,Fail,3,Critical,45,2027-07-16
+I0927,Battery Pack,L1,M3,Morning,42,44,206.34,1.69,2.17,119,OP108,Ceramic,Misalignment,Low,Pass,40,Critical,77,2027-07-17
+I0928,Wi-Fi Module,L3,M3,Evening,38,61,14.56,3.06,1.53,143,OP121,Aluminum,PCB Crack,Medium,Fail,26,Good,13,2027-07-18
+I0929,Display Unit,L4,M2,Night,52,47,142.56,1.13,1.66,130,OP112,Ceramic,Misalignment,Low,Pass,36,Critical,21,2027-07-19
+I0930,Power Supply Unit,L1,M4,Evening,50,41,67.19,2.54,3.5,104,OP108,FR4,Short Circuit,Low,Pass,49,Good,63,2027-07-20
+I0931,Battery Pack,L4,M4,Night,48,53,79.42,4.07,2.8,97,OP127,FR4,Loose Connection,High,Fail,42,Good,63,2027-07-21
+I0932,Relay Module,L1,M5,Morning,47,57,227.8,4.55,2.97,108,OP120,FR4,Loose Connection,Low,Pass,18,Warning,32,2027-07-22
+I0933,Camera Module,L2,M5,Evening,41,47,155.67,3.69,1.66,107,OP114,Aluminum,Missing Component,Low,Pass,16,Warning,26,2027-07-23
+I0934,LED Driver,L1,M2,Night,44,46,121.67,3.1,1.36,133,OP116,Ceramic,Missing Component,Low,Fail,46,Critical,45,2027-07-24
+I0935,Camera Module,L1,M3,Morning,45,54,11.7,2.21,3.23,92,OP124,Aluminum,Misalignment,Low,Pass,3,Critical,74,2027-07-25
+I0936,Display Unit,L2,M1,Evening,43,47,182.11,0.51,0.87,103,OP103,FR4,Loose Connection,Low,Fail,3,Warning,17,2027-07-26
+I0937,LED Driver,L2,M1,Night,41,58,24.16,2.84,4.38,122,OP107,Aluminum,Loose Connection,Low,Pass,38,Critical,70,2027-07-27
+I0938,Power Supply Unit,L3,M2,Morning,39,53,174.67,1.93,1.77,111,OP130,Ceramic,Open Circuit,High,Fail,47,Critical,38,2027-07-28
+I0939,LED Driver,L3,M3,Evening,55,40,143.74,4.75,1.95,111,OP121,Aluminum,Solder Bridge,High,Fail,58,Critical,71,2027-07-29
+I0940,Microcontroller Board,L2,M4,Evening,51,63,197.41,3.0,3.62,120,OP115,Copper,Misalignment,Medium,Fail,48,Good,68,2027-07-30
+I0941,PCB,L1,M1,Night,47,50,136.26,0.37,2.52,130,OP116,Ceramic,Missing Component,Low,Fail,4,Warning,41,2027-07-31
+I0942,Power Supply Unit,L2,M3,Morning,50,65,138.82,1.7,2.83,115,OP123,FR4,Open Circuit,Medium,Pass,4,Critical,99,2027-08-01
+I0943,Microcontroller Board,L1,M2,Night,45,47,43.81,2.38,1.29,149,OP107,FR4,Short Circuit,Medium,Fail,21,Warning,51,2027-08-02
+I0944,Camera Module,L3,M1,Night,52,55,218.2,0.36,3.5,147,OP125,FR4,Loose Connection,Low,Fail,18,Critical,55,2027-08-03
+I0945,Camera Module,L4,M3,Evening,51,49,223.71,0.54,2.57,92,OP108,Ceramic,Burn Mark,Low,Pass,51,Critical,95,2027-08-04
+I0946,Relay Module,L2,M5,Evening,44,60,136.74,3.38,2.8,135,OP101,Ceramic,Misalignment,Low,Fail,38,Warning,22,2027-08-05
+I0947,Power Supply Unit,L4,M5,Evening,37,60,151.14,3.79,3.18,127,OP101,FR4,Misalignment,Medium,Pass,13,Good,41,2027-08-06
+I0948,Microcontroller Board,L1,M1,Morning,53,65,60.7,4.7,0.79,135,OP120,FR4,Loose Connection,Low,Pass,5,Good,57,2027-08-07
+I0949,LED Driver,L1,M5,Evening,54,55,199.94,3.41,3.69,135,OP122,FR4,Missing Component,Low,Fail,3,Good,13,2027-08-08
+I0950,LED Driver,L4,M5,Morning,48,65,60.83,4.73,2.61,101,OP122,FR4,PCB Crack,High,Pass,15,Good,29,2027-08-09
+I0951,Camera Module,L1,M5,Morning,40,51,135.86,0.37,4.03,83,OP122,FR4,Missing Component,Medium,Fail,33,Good,42,2027-08-10
+I0952,Power Supply Unit,L2,M2,Morning,41,61,166.47,4.06,3.23,132,OP111,FR4,Loose Connection,Medium,Fail,13,Warning,14,2027-08-11
+I0953,Power Supply Unit,L2,M2,Morning,54,56,207.65,3.95,1.86,98,OP130,Ceramic,Burn Mark,High,Pass,50,Warning,22,2027-08-12
+I0954,Microcontroller Board,L2,M3,Night,42,57,125.94,0.38,1.65,94,OP113,Ceramic,Misalignment,Medium,Pass,18,Warning,82,2027-08-13
+I0955,Battery Pack,L3,M1,Night,51,49,116.03,3.67,2.11,92,OP115,Aluminum,Open Circuit,Low,Fail,39,Critical,51,2027-08-14
+I0956,Sensor Module,L2,M1,Night,55,54,215.63,0.29,2.45,130,OP124,Copper,Solder Bridge,Low,Fail,19,Good,98,2027-08-15
+I0957,Sensor Module,L1,M3,Evening,52,58,93.36,4.18,0.95,138,OP129,Ceramic,Open Circuit,Low,Pass,11,Critical,26,2027-08-16
+I0958,Camera Module,L1,M4,Morning,43,65,35.95,4.12,3.79,143,OP104,Aluminum,PCB Crack,Medium,Pass,37,Critical,66,2027-08-17
+I0959,PCB,L1,M3,Night,41,42,225.37,3.53,0.76,86,OP117,Ceramic,Missing Component,Low,Pass,58,Critical,23,2027-08-18
+I0960,Wi-Fi Module,L1,M3,Night,44,45,197.11,0.89,4.35,138,OP124,Ceramic,Misalignment,Medium,Fail,36,Warning,87,2027-08-19
+I0961,Sensor Module,L3,M4,Night,40,40,176.83,3.82,1.72,142,OP108,Ceramic,Misalignment,Low,Pass,2,Critical,48,2027-08-20
+I0962,LED Driver,L2,M2,Morning,36,42,24.08,2.5,3.74,110,OP114,Copper,Short Circuit,High,Fail,48,Warning,71,2027-08-21
+I0963,Power Supply Unit,L3,M2,Night,50,42,166.05,1.49,2.29,82,OP126,Copper,Missing Component,Low,Fail,17,Good,15,2027-08-22
+I0964,LED Driver,L2,M1,Evening,52,55,79.43,1.09,1.75,101,OP118,Aluminum,Loose Connection,Low,Fail,24,Critical,80,2027-08-23
+I0965,PCB,L4,M1,Morning,41,43,121.61,1.17,3.47,102,OP111,Aluminum,Open Circuit,Low,Pass,4,Critical,48,2027-08-24
+I0966,Power Supply Unit,L1,M1,Night,44,53,101.44,4.67,1.62,148,OP116,FR4,Short Circuit,Medium,Fail,45,Critical,48,2027-08-25
+I0967,Relay Module,L2,M3,Evening,53,63,197.34,1.72,1.03,94,OP103,FR4,Short Circuit,Low,Pass,53,Warning,10,2027-08-26
+I0968,Sensor Module,L1,M3,Evening,51,48,109.17,4.39,1.46,118,OP114,Ceramic,Solder Bridge,Low,Fail,0,Warning,19,2027-08-27
+I0969,Relay Module,L3,M5,Evening,38,52,101.63,1.59,3.2,110,OP116,Aluminum,Open Circuit,High,Pass,41,Good,87,2027-08-28
+I0970,Battery Pack,L3,M5,Evening,37,48,225.4,0.61,3.54,92,OP112,Ceramic,Misalignment,Low,Pass,9,Critical,65,2027-08-29
+I0971,Relay Module,L1,M1,Night,42,61,58.53,1.03,1.16,127,OP129,Copper,Burn Mark,High,Pass,26,Good,39,2027-08-30
+I0972,Sensor Module,L1,M1,Night,35,44,226.0,4.92,0.54,98,OP105,Copper,PCB Crack,Low,Pass,36,Critical,25,2027-08-31
+I0973,PCB,L2,M1,Morning,36,60,137.38,4.67,3.43,80,OP109,FR4,Loose Connection,Low,Fail,32,Good,99,2027-09-01
+I0974,Microcontroller Board,L3,M3,Night,35,65,22.98,1.58,2.73,119,OP124,Aluminum,PCB Crack,Low,Fail,58,Good,72,2027-09-02
+I0975,Power Supply Unit,L3,M4,Morning,49,65,134.82,3.14,1.87,144,OP117,Ceramic,Misalignment,Low,Fail,45,Good,73,2027-09-03
+I0976,Display Unit,L3,M4,Night,43,54,26.73,2.56,3.02,84,OP127,Aluminum,Short Circuit,Low,Pass,3,Good,75,2027-09-04
+I0977,Camera Module,L1,M4,Evening,49,46,146.54,1.02,4.09,109,OP103,Aluminum,Misalignment,Medium,Pass,55,Warning,45,2027-09-05
+I0978,Camera Module,L4,M2,Morning,46,53,177.8,4.66,0.78,118,OP102,FR4,Loose Connection,Low,Fail,36,Warning,79,2027-09-06
+I0979,Battery Pack,L3,M1,Night,41,49,144.43,4.1,1.54,122,OP116,Ceramic,Misalignment,Medium,Pass,2,Critical,75,2027-09-07
+I0980,Microcontroller Board,L3,M3,Morning,51,63,223.51,3.63,4.15,92,OP130,Copper,Missing Component,Low,Pass,58,Critical,78,2027-09-08
+I0981,Camera Module,L2,M5,Morning,48,61,185.07,3.39,3.35,150,OP119,Aluminum,Burn Mark,Medium,Fail,34,Good,49,2027-09-09
+I0982,PCB,L1,M5,Evening,38,45,34.73,0.59,2.83,97,OP121,Copper,Misalignment,Low,Fail,26,Good,59,2027-09-10
+I0983,Camera Module,L2,M5,Night,52,49,109.83,1.47,1.21,95,OP107,Copper,Misalignment,Medium,Pass,6,Good,79,2027-09-11
+I0984,Microcontroller Board,L2,M2,Evening,36,54,175.36,3.31,2.77,144,OP129,FR4,Open Circuit,Medium,Fail,10,Warning,39,2027-09-12
+I0985,Power Supply Unit,L4,M3,Morning,52,55,34.04,1.44,1.18,86,OP130,FR4,PCB Crack,Low,Pass,13,Warning,76,2027-09-13
+I0986,Battery Pack,L2,M5,Morning,42,50,92.51,4.33,0.55,110,OP120,FR4,Missing Component,Low,Pass,10,Good,24,2027-09-14
+I0987,Relay Module,L2,M3,Evening,48,55,146.72,4.29,1.26,149,OP103,Ceramic,Burn Mark,Low,Fail,30,Warning,13,2027-09-15
+I0988,Power Supply Unit,L1,M2,Night,52,59,183.01,3.56,4.16,147,OP126,Ceramic,Open Circuit,Low,Pass,59,Warning,16,2027-09-16
+I0989,Sensor Module,L3,M3,Morning,39,50,114.39,3.12,2.7,129,OP113,FR4,Open Circuit,Low,Fail,46,Warning,66,2027-09-17
+I0990,Display Unit,L1,M1,Evening,37,48,199.63,2.29,1.29,147,OP130,Copper,PCB Crack,Low,Fail,0,Good,80,2027-09-18
+I0991,Camera Module,L1,M4,Morning,45,55,191.45,2.91,1.98,104,OP129,FR4,PCB Crack,Low,Pass,42,Warning,97,2027-09-19
+I0992,Display Unit,L3,M3,Morning,38,55,62.84,0.57,2.02,94,OP104,FR4,PCB Crack,Medium,Pass,14,Critical,87,2027-09-20
+I0993,Relay Module,L2,M4,Night,53,43,115.37,4.0,3.85,142,OP103,FR4,Open Circuit,Low,Fail,57,Critical,86,2027-09-21
+I0994,Wi-Fi Module,L3,M5,Night,49,44,193.6,0.29,3.42,130,OP129,Ceramic,Loose Connection,Low,Fail,58,Good,86,2027-09-22
+I0995,LED Driver,L2,M2,Morning,46,52,11.87,3.97,2.91,126,OP117,Ceramic,Missing Component,Low,Fail,52,Good,80,2027-09-23
+I0996,Camera Module,L4,M4,Morning,47,43,160.27,1.4,1.93,99,OP127,Copper,Missing Component,Medium,Pass,42,Critical,86,2027-09-24
+I0997,Power Supply Unit,L3,M1,Evening,45,51,26.82,3.75,4.02,150,OP118,Ceramic,Open Circuit,Low,Pass,37,Critical,77,2027-09-25
+I0998,Wi-Fi Module,L4,M3,Evening,52,48,116.64,3.4,3.3,123,OP110,Ceramic,Burn Mark,High,Pass,58,Warning,93,2027-09-26
+I0999,Sensor Module,L1,M2,Morning,52,53,91.44,1.01,1.78,112,OP104,FR4,Loose Connection,Low,Pass,4,Warning,40,2027-09-27
+I1000,Battery Pack,L4,M1,Evening,42,49,212.34,1.02,3.73,89,OP102,Copper,Missing Component,Low,Pass,34,Good,58,2027-09-28
